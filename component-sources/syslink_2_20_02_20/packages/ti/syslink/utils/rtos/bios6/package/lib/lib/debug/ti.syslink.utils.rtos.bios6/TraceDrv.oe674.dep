@@ -1,0 +1,14 @@
+package/lib/lib/debug/ti.syslink.utils.rtos.bios6/TraceDrv.oe674: TraceDrv.c /home/chandler/Dev_J5ECO/component-sources/xdctools_3_23_03_53/packages/xdc/std.h /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/utils/Trace.h /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/inc/TraceDrvDefs.h /home/chandler/Dev_J5ECO/dsp-devkit/cgt6x_7_3_4/include/stdarg.h /home/chandler/Dev_J5ECO/dsp-devkit/cgt6x_7_3_4/include/stddef.h /home/chandler/Dev_J5ECO/component-sources/xdctools_3_23_03_53/packages/ti/targets/elf/std.h /home/chandler/Dev_J5ECO/component-sources/xdctools_3_23_03_53/packages/ti/targets/select.h /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/utils/OsalPrint.h /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/inc/IpcCmdBase.h /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/inc/IoctlDefs.h /home/chandler/Dev_J5ECO/component-sources/xdctools_3_23_03_53/packages/ti/targets/std.h /home/chandler/Dev_J5ECO/dsp-devkit/cgt6x_7_3_4/include/stdint.h 
+TraceDrv.c:
+/home/chandler/Dev_J5ECO/component-sources/xdctools_3_23_03_53/packages/xdc/std.h:
+/home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/utils/Trace.h:
+/home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/inc/TraceDrvDefs.h:
+/home/chandler/Dev_J5ECO/dsp-devkit/cgt6x_7_3_4/include/stdarg.h:
+/home/chandler/Dev_J5ECO/dsp-devkit/cgt6x_7_3_4/include/stddef.h:
+/home/chandler/Dev_J5ECO/component-sources/xdctools_3_23_03_53/packages/ti/targets/elf/std.h:
+/home/chandler/Dev_J5ECO/component-sources/xdctools_3_23_03_53/packages/ti/targets/select.h:
+/home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/utils/OsalPrint.h:
+/home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/inc/IpcCmdBase.h:
+/home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/inc/IoctlDefs.h:
+/home/chandler/Dev_J5ECO/component-sources/xdctools_3_23_03_53/packages/ti/targets/std.h:
+/home/chandler/Dev_J5ECO/dsp-devkit/cgt6x_7_3_4/include/stdint.h:

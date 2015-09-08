@@ -1,0 +1,51 @@
+clean::
+	$(RM) package/ti.syslink.buildutils.rtos.buildScripts.sch
+	$(RM) package/.vers_g180
+	$(RM) package/.vers_r170
+	$(RM) package/.vers_b150
+	$(RM) package/.xdc-y25
+	$(RM) package/ti_syslink_buildutils_rtos_buildScripts.java
+	$(RM) package/ti_syslink_buildutils_rtos_buildScripts.class
+	$(RM) package/package_ti.syslink.buildutils.rtos.buildScripts.c
+	$(RM) package/package.defs.h
+	$(RM) package/ti.syslink.buildutils.rtos.buildScripts.ccs
+
+.interfaces: package/ti.syslink.buildutils.rtos.buildScripts.sch package/.vers_g180 package/.vers_r170 package/.vers_b150 package/.xdc-y25 package/ti_syslink_buildutils_rtos_buildScripts.java package/package_ti.syslink.buildutils.rtos.buildScripts.c package/package.defs.h package/ti.syslink.buildutils.rtos.buildScripts.ccs 
+package/package.xdc.inc: package/.vers_g180
+package/.vers_g180:
+package/package.xdc.inc: package/.vers_r170
+package/.vers_r170:
+package/package.xdc.inc: package/.vers_b150
+package/.vers_b150:
+
+.interfaces: 
+
+# schema include file dependencies
+
+# schema update dependencies
+package/package.xdc.inc: xdc/IPackage.xdc
+xdc/IPackage.xdc:
+vpath xdc/IPackage.xdc $(XPKGVPATH)
+
+ifneq (clean,$(MAKECMDGOALS))
+/home/chandler/Dev_J5ECO/component-sources/xdctools_3_23_03_53/packages/xdc/services/spec/java/package.jar:
+package/package.xdc.inc: /home/chandler/Dev_J5ECO/component-sources/xdctools_3_23_03_53/packages/xdc/services/spec/java/package.jar
+/home/chandler/Dev_J5ECO/component-sources/xdctools_3_23_03_53/packages/xdc/services/intern/cmd/java/package.jar:
+package/package.xdc.inc: /home/chandler/Dev_J5ECO/component-sources/xdctools_3_23_03_53/packages/xdc/services/intern/cmd/java/package.jar
+/home/chandler/Dev_J5ECO/component-sources/xdctools_3_23_03_53/packages/xdc/services/intern/xsr/java/package.jar:
+package/package.xdc.inc: /home/chandler/Dev_J5ECO/component-sources/xdctools_3_23_03_53/packages/xdc/services/intern/xsr/java/package.jar
+/home/chandler/Dev_J5ECO/component-sources/xdctools_3_23_03_53/packages/xdc/shelf/java/tar.jar:
+package/package.xdc.inc: /home/chandler/Dev_J5ECO/component-sources/xdctools_3_23_03_53/packages/xdc/shelf/java/tar.jar
+/home/chandler/Dev_J5ECO/component-sources/xdctools_3_23_03_53/packages/xdc/shelf/java/ecj.jar:
+package/package.xdc.inc: /home/chandler/Dev_J5ECO/component-sources/xdctools_3_23_03_53/packages/xdc/shelf/java/ecj.jar
+/home/chandler/Dev_J5ECO/component-sources/xdctools_3_23_03_53/packages/xdc/services/global/java/package.jar:
+package/package.xdc.inc: /home/chandler/Dev_J5ECO/component-sources/xdctools_3_23_03_53/packages/xdc/services/global/java/package.jar
+/home/chandler/Dev_J5ECO/component-sources/xdctools_3_23_03_53/packages/xdc/services/intern/gen/java/package.jar:
+package/package.xdc.inc: /home/chandler/Dev_J5ECO/component-sources/xdctools_3_23_03_53/packages/xdc/services/intern/gen/java/package.jar
+/home/chandler/Dev_J5ECO/component-sources/xdctools_3_23_03_53/packages/xdc/shelf/java/antlr.jar:
+package/package.xdc.inc: /home/chandler/Dev_J5ECO/component-sources/xdctools_3_23_03_53/packages/xdc/shelf/java/antlr.jar
+/home/chandler/Dev_J5ECO/component-sources/xdctools_3_23_03_53/packages/xdc/shelf/java/js.jar:
+package/package.xdc.inc: /home/chandler/Dev_J5ECO/component-sources/xdctools_3_23_03_53/packages/xdc/shelf/java/js.jar
+endif
+# goals for files generated during schema generation but unspecified by schema's pattern rule
+

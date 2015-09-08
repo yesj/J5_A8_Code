@@ -1,0 +1,22 @@
+package/lib/lib/debug/ti.syslink.utils.rtos.bios6/../../common/Trace.oe674: ../../common/Trace.c /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/Std.h /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/utils/Trace.h /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/utils/OsalPrint.h /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/inc/TraceDrv.h /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/inc/TraceDrvDefs.h /home/chandler/Dev_J5ECO/component-sources/xdctools_3_23_03_53/packages/xdc/std.h /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/inc/knl/Linux/std_linux.h /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/inc/usr/Linux/std_linux.h /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/inc/knl/Qnx/std_qnx.h /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/inc/IpcCmdBase.h /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/inc/IoctlDefs.h /home/chandler/Dev_J5ECO/dsp-devkit/cgt6x_7_3_4/include/stdarg.h /home/chandler/Dev_J5ECO/dsp-devkit/cgt6x_7_3_4/include/stddef.h /home/chandler/Dev_J5ECO/component-sources/xdctools_3_23_03_53/packages/ti/targets/elf/std.h /home/chandler/Dev_J5ECO/component-sources/xdctools_3_23_03_53/packages/ti/targets/select.h /home/chandler/Dev_J5ECO/dsp-devkit/cgt6x_7_3_4/include/stdio.h /home/chandler/Dev_J5ECO/dsp-devkit/cgt6x_7_3_4/include/stdlib.h /home/chandler/Dev_J5ECO/component-sources/xdctools_3_23_03_53/packages/ti/targets/std.h /home/chandler/Dev_J5ECO/dsp-devkit/cgt6x_7_3_4/include/linkage.h /home/chandler/Dev_J5ECO/dsp-devkit/cgt6x_7_3_4/include/stdint.h 
+../../common/Trace.c:
+/home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/Std.h:
+/home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/utils/Trace.h:
+/home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/utils/OsalPrint.h:
+/home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/inc/TraceDrv.h:
+/home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/inc/TraceDrvDefs.h:
+/home/chandler/Dev_J5ECO/component-sources/xdctools_3_23_03_53/packages/xdc/std.h:
+/home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/inc/knl/Linux/std_linux.h:
+/home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/inc/usr/Linux/std_linux.h:
+/home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/inc/knl/Qnx/std_qnx.h:
+/home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/inc/IpcCmdBase.h:
+/home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/inc/IoctlDefs.h:
+/home/chandler/Dev_J5ECO/dsp-devkit/cgt6x_7_3_4/include/stdarg.h:
+/home/chandler/Dev_J5ECO/dsp-devkit/cgt6x_7_3_4/include/stddef.h:
+/home/chandler/Dev_J5ECO/component-sources/xdctools_3_23_03_53/packages/ti/targets/elf/std.h:
+/home/chandler/Dev_J5ECO/component-sources/xdctools_3_23_03_53/packages/ti/targets/select.h:
+/home/chandler/Dev_J5ECO/dsp-devkit/cgt6x_7_3_4/include/stdio.h:
+/home/chandler/Dev_J5ECO/dsp-devkit/cgt6x_7_3_4/include/stdlib.h:
+/home/chandler/Dev_J5ECO/component-sources/xdctools_3_23_03_53/packages/ti/targets/std.h:
+/home/chandler/Dev_J5ECO/dsp-devkit/cgt6x_7_3_4/include/linkage.h:
+/home/chandler/Dev_J5ECO/dsp-devkit/cgt6x_7_3_4/include/stdint.h:

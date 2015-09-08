@@ -1,0 +1,2021 @@
+Archive member included because of file (symbol)
+
+/home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(SharedRegion.o)
+                              bin/release/obj/main_host.ov5T (SharedRegion_getSRPtr)
+/home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(Notify.o)
+                              bin/release/obj/App.ov5T (Notify_sendEvent)
+/home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(MessageQ.o)
+                              bin/release/obj/App.ov5T (MessageQ_unregisterHeap)
+/home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(Ipc.o)
+                              bin/release/obj/main_host.ov5T (Ipc_control)
+/home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(RingIO.o)
+                              /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(Ipc.o) (RingIO_destroy)
+/home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(RingIOShm.o)
+                              /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(Ipc.o) (RingIOShm_destroy)
+/home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(FrameQ.o)
+                              /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(Ipc.o) (FrameQ_destroy)
+/home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(FrameQBufMgr.o)
+                              /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(FrameQ.o) (FrameQBufMgr_getHandle)
+/home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(ClientNotifyMgr.o)
+                              /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(RingIO.o) (ClientNotifyMgr_sendForceNotificationMulti)
+/home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(HeapMemMP.o)
+                              /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(Ipc.o) (HeapMemMP_destroy)
+/home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(HeapBufMP.o)
+                              bin/release/obj/App.ov5T (HeapBufMP_delete)
+/home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(GateMP.o)
+                              /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(RingIO.o) (GateMP_getKnlHandle)
+/home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(SharedRegionDrv.o)
+                              /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(SharedRegion.o) (SharedRegionDrv_ioctl)
+/home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(NotifyDrvUsr.o)
+                              /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(Notify.o) (NotifyDrvUsr_ioctl)
+/home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(HeapBufMPDrv.o)
+                              /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(HeapBufMP.o) (HeapBufMPDrv_ioctl)
+/home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(MessageQDrv.o)
+                              /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(MessageQ.o) (MessageQDrv_ioctl)
+/home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(IpcDrv.o)
+                              /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(Ipc.o) (IpcDrv_ioctl)
+/home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(FrameQDrv.o)
+                              /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(FrameQ.o) (FrameQDrv_ioctl)
+/home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(FrameQBufMgrDrv.o)
+                              /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(FrameQBufMgr.o) (FrameQBufMgrDrv_ioctl)
+/home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(ClientNotifyMgrDrv.o)
+                              /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(ClientNotifyMgr.o) (ClientNotifyMgrDrv_ioctl)
+/home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(RingIODrv.o)
+                              /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(RingIO.o) (RingIODrv_ioctl)
+/home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(RingIOShmDrv.o)
+                              /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(RingIOShm.o) (RingIOShmDrv_ioctl)
+/home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(HeapMemMPDrv.o)
+                              /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(HeapMemMP.o) (HeapMemMPDrv_ioctl)
+/home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(GateMPDrv.o)
+                              /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(GateMP.o) (GateMPDrv_ioctl)
+/home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(OsalProcess.o)
+                              /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(Ipc.o) (OsalProcess_getPid)
+/home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(GateMutex.o)
+                              /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(SharedRegion.o) (GateMutex_create)
+/home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(Memory.o)
+                              /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(SharedRegion.o) (Memory_getMaxDefaultTypeAlign)
+/home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(List.o)
+                              /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(FrameQ.o) (List_remove)
+/home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(String.o)
+                              /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(SharedRegion.o) (String_cmp)
+/home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(Trace.o)
+                              /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(SharedRegion.o) (_GT_setFailureReason)
+/home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(NameServer.o)
+                              /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(FrameQ.o) (NameServer_getHandle)
+/home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(MultiProc.o)
+                              /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(SharedRegion.o) (MultiProc_self)
+/home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(Gate.o)
+                              /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(FrameQ.o) (Gate_leaveSystem)
+/home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(SysLink.o)
+                              bin/release/obj/main_host.ov5T (SysLink_destroy)
+/home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(Cache.o)
+                              /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(FrameQBufMgr.o) (Cache_wbInv)
+/home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(NameServerDrv.o)
+                              /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(NameServer.o) (NameServerDrv_ioctl)
+/home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(MultiProcDrv.o)
+                              /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(MultiProc.o) (MultiProcDrv_ioctl)
+/home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(TraceDrv.o)
+                              /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(Trace.o) (TraceDrv_ioctl)
+/home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(CacheDrv.o)
+                              /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(Cache.o) (CacheDrv_ioctl)
+/home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(Dev.o)
+                              /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(SharedRegionDrv.o) (Dev_pollOpen)
+/home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(MemoryOS.o)
+                              /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(Memory.o) (MemoryOS_free)
+/home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(OsalDrv.o)
+                              /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(TraceDrv.o) (OsalDrv_ioctl)
+/home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(OsalMutex.o)
+                              /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(GateMutex.o) (OsalMutex_leave)
+/home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(OsalPrint.o)
+                              bin/release/obj/main_host.ov5T (Osal_printf)
+/home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(ProcMgr.o)
+                              bin/release/obj/main_host.ov5T (ProcMgr_translateAddr)
+/home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(ProcMgrDrvUsr.o)
+                              /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(ProcMgr.o) (ProcMgrDrvUsr_close)
+/home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(FrameQ_common.o)
+                              /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(FrameQ.o) (FrameQ_isSupportedInterface)
+/home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(ListMP.o)
+                              /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(Ipc.o) (ListMP_destroy)
+/home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(ListMPDrv.o)
+                              /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(ListMP.o) (ListMPDrv_ioctl)
+/home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../arm-none-linux-gnueabi/libc/usr/lib/libc_nonshared.a(elf-init.oS)
+                              /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../arm-none-linux-gnueabi/libc/usr/lib/crt1.o (__libc_csu_fini)
+
+Allocating common symbols
+Common symbol       size              file
+
+DATA_GET            0x1000            bin/release/obj/CallBack.ov5T
+program             0x8               bin/release/obj/common.ov5T
+dpy                 0x4               bin/release/obj/common.ov5T
+model_view_idx      0x8               bin/release/obj/common.ov5T
+MemoryOS_state      0x10              /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(MemoryOS.o)
+proj_idx            0x8               bin/release/obj/common.ov5T
+RemoteDspQId        0x4               bin/release/obj/main_host.ov5T
+ptex_objs           0x4               bin/release/obj/common.ov5T
+NameServer_Object   0x4               /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(NameServer.o)
+
+Discarded input sections
+
+ .note.GNU-stack
+                0x00000000        0x0 /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../arm-none-linux-gnueabi/libc/usr/lib/crt1.o
+ .note.GNU-stack
+                0x00000000        0x0 /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../arm-none-linux-gnueabi/libc/usr/lib/crti.o
+ .note.GNU-stack
+                0x00000000        0x0 /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-linux-gnueabi/4.3.3/crtbegin.o
+ .note.GNU-stack
+                0x00000000        0x0 bin/release/obj/main_host.ov5T
+ .note.GNU-stack
+                0x00000000        0x0 bin/release/obj/App.ov5T
+ .note.GNU-stack
+                0x00000000        0x0 bin/release/obj/ParaMP4Enc.ov5T
+ .note.GNU-stack
+                0x00000000        0x0 bin/release/obj/ParaParser.ov5T
+ .note.GNU-stack
+                0x00000000        0x0 bin/release/obj/CallBack.ov5T
+ .note.GNU-stack
+                0x00000000        0x0 bin/release/obj/common.ov5T
+ .note.GNU-stack
+                0x00000000        0x0 bin/release/obj/customer_folder/111.ov5T
+ .note.GNU-stack
+                0x00000000        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(SharedRegion.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(Notify.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(MessageQ.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(Ipc.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(RingIO.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(RingIOShm.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(FrameQ.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(FrameQBufMgr.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(ClientNotifyMgr.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(HeapMemMP.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(HeapBufMP.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(GateMP.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(SharedRegionDrv.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(NotifyDrvUsr.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(HeapBufMPDrv.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(MessageQDrv.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(IpcDrv.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(FrameQDrv.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(FrameQBufMgrDrv.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(ClientNotifyMgrDrv.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(RingIODrv.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(RingIOShmDrv.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(HeapMemMPDrv.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(GateMPDrv.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(OsalProcess.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(GateMutex.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(Memory.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(List.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(String.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(Trace.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(NameServer.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(MultiProc.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(Gate.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(SysLink.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(Cache.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(NameServerDrv.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(MultiProcDrv.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(TraceDrv.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(CacheDrv.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(Dev.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(MemoryOS.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(OsalDrv.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(OsalMutex.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(OsalPrint.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(ProcMgr.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(ProcMgrDrvUsr.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(FrameQ_common.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(ListMP.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(ListMPDrv.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../arm-none-linux-gnueabi/libc/usr/lib/libc_nonshared.a(elf-init.oS)
+ .note.GNU-stack
+                0x00000000        0x0 /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-linux-gnueabi/4.3.3/crtend.o
+ .note.GNU-stack
+                0x00000000        0x0 /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../arm-none-linux-gnueabi/libc/usr/lib/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../arm-none-linux-gnueabi/libc/usr/lib/crt1.o
+LOAD /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../arm-none-linux-gnueabi/libc/usr/lib/crti.o
+LOAD /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-linux-gnueabi/4.3.3/crtbegin.o
+LOAD bin/release/obj/main_host.ov5T
+LOAD bin/release/obj/App.ov5T
+LOAD bin/release/obj/ParaMP4Enc.ov5T
+LOAD bin/release/obj/ParaParser.ov5T
+LOAD bin/release/obj/CallBack.ov5T
+LOAD bin/release/obj/common.ov5T
+LOAD bin/release/obj/customer_folder/111.ov5T
+LOAD /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release
+LOAD /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../arm-none-linux-gnueabi/libc/usr/lib/libpthread.so
+START GROUP
+LOAD /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../arm-none-linux-gnueabi/libc/lib/libpthread.so.0
+LOAD /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../arm-none-linux-gnueabi/libc/usr/lib/libpthread_nonshared.a
+END GROUP
+LOAD /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../arm-none-linux-gnueabi/libc/usr/lib/librt.so
+LOAD /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/../../component-sources/graphics-sdk_4.07.00.01/gfx_dbg_es6.x//libEGL.so
+LOAD /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/../../component-sources/graphics-sdk_4.07.00.01/gfx_dbg_es6.x//libGLESv2.so
+LOAD /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../arm-none-linux-gnueabi/libc/usr/lib/libstdc++.so
+LOAD /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../arm-none-linux-gnueabi/libc/usr/lib/libm.so
+LOAD /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../arm-none-linux-gnueabi/libc/usr/lib/libc.so
+START GROUP
+LOAD /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../arm-none-linux-gnueabi/libc/lib/libc.so.6
+LOAD /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../arm-none-linux-gnueabi/libc/usr/lib/libc_nonshared.a
+LOAD /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../arm-none-linux-gnueabi/libc/lib/ld-linux.so.3
+END GROUP
+LOAD /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../arm-none-linux-gnueabi/libc/lib/libgcc_s.so
+LOAD /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-linux-gnueabi/4.3.3/libgcc.a
+LOAD /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../arm-none-linux-gnueabi/libc/usr/lib/libc.so
+START GROUP
+LOAD /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../arm-none-linux-gnueabi/libc/lib/libc.so.6
+LOAD /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../arm-none-linux-gnueabi/libc/usr/lib/libc_nonshared.a
+LOAD /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../arm-none-linux-gnueabi/libc/lib/ld-linux.so.3
+END GROUP
+LOAD /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../arm-none-linux-gnueabi/libc/lib/libgcc_s.so
+LOAD /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-linux-gnueabi/4.3.3/libgcc.a
+LOAD /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-linux-gnueabi/4.3.3/crtend.o
+LOAD /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../arm-none-linux-gnueabi/libc/usr/lib/crtn.o
+                0x00008000                PROVIDE (__executable_start, 0x8000)
+                0x00008134                . = (0x8000 + SIZEOF_HEADERS)
+
+.interp         0x00008134       0x13
+ *(.interp)
+ .interp        0x00008134       0x13 /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../arm-none-linux-gnueabi/libc/usr/lib/crti.o
+
+.note.ABI-tag   0x00008148       0x20
+ .note.ABI-tag  0x00008148       0x20 /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../arm-none-linux-gnueabi/libc/usr/lib/crt1.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.hash           0x00008168      0x468
+ *(.hash)
+ .hash          0x00008168      0x468 /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../arm-none-linux-gnueabi/libc/usr/lib/crti.o
+
+.gnu.hash
+ *(.gnu.hash)
+
+.dynsym         0x000085d0      0x950
+ *(.dynsym)
+ .dynsym        0x000085d0      0x950 /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../arm-none-linux-gnueabi/libc/usr/lib/crti.o
+
+.dynstr         0x00008f20      0x7a7
+ *(.dynstr)
+ .dynstr        0x00008f20      0x7a7 /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../arm-none-linux-gnueabi/libc/usr/lib/crti.o
+
+.gnu.version    0x000096c8      0x12a
+ *(.gnu.version)
+ .gnu.version   0x000096c8      0x12a /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../arm-none-linux-gnueabi/libc/usr/lib/crti.o
+
+.gnu.version_d  0x000097f4        0x0 load address 0x000097f2
+ *(.gnu.version_d)
+ .gnu.version_d
+                0x00000000        0x0 /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../arm-none-linux-gnueabi/libc/usr/lib/crti.o
+
+.gnu.version_r  0x000097f4       0xa0
+ *(.gnu.version_r)
+ .gnu.version_r
+                0x000097f4       0xa0 /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../arm-none-linux-gnueabi/libc/usr/lib/crti.o
+
+.rel.dyn        0x00009894       0xc8
+ *(.rel.init)
+ *(.rel.text .rel.text.* .rel.gnu.linkonce.t.*)
+ *(.rel.fini)
+ *(.rel.rodata .rel.rodata.* .rel.gnu.linkonce.r.*)
+ *(.rel.data.rel.ro* .rel.gnu.linkonce.d.rel.ro.*)
+ *(.rel.data .rel.data.* .rel.gnu.linkonce.d.*)
+ *(.rel.tdata .rel.tdata.* .rel.gnu.linkonce.td.*)
+ *(.rel.tbss .rel.tbss.* .rel.gnu.linkonce.tb.*)
+ *(.rel.ctors)
+ *(.rel.dtors)
+ *(.rel.got)
+ .rel.got       0x00009894       0xc0 /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../arm-none-linux-gnueabi/libc/usr/lib/crti.o
+ *(.rel.bss .rel.bss.* .rel.gnu.linkonce.b.*)
+ .rel.bss       0x00009954        0x8 /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../arm-none-linux-gnueabi/libc/usr/lib/crti.o
+
+.rel.ifunc.dyn
+ *(.rel.ifunc.*)
+
+.rela.dyn
+ *(.rela.init)
+ *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
+ *(.rela.fini)
+ *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
+ *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
+ *(.rela.tdata .rela.tdata.* .rela.gnu.linkonce.td.*)
+ *(.rela.tbss .rela.tbss.* .rela.gnu.linkonce.tb.*)
+ *(.rela.ctors)
+ *(.rela.dtors)
+ *(.rela.got)
+ *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
+
+.rela.ifunc.dyn
+ *(.rela.ifunc.*)
+
+.rel.plt        0x0000995c      0x368
+ *(.rel.plt)
+ .rel.plt       0x0000995c      0x368 /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../arm-none-linux-gnueabi/libc/usr/lib/crti.o
+
+.rela.plt
+ *(.rela.plt)
+
+.init           0x00009cc4        0xc
+ *(.init)
+ .init          0x00009cc4        0x8 /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../arm-none-linux-gnueabi/libc/usr/lib/crti.o
+                0x00009cc4                _init
+ .init          0x00009ccc        0x4 /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../arm-none-linux-gnueabi/libc/usr/lib/crtn.o
+
+.plt            0x00009cd0      0x530
+ *(.plt)
+ .plt           0x00009cd0      0x530 /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../arm-none-linux-gnueabi/libc/usr/lib/crti.o
+                0x00009ce4                open@@GLIBC_2.4
+                0x00009cf0                glAttachShader
+                0x00009cfc                glEnable
+                0x00009d08                mmap@@GLIBC_2.4
+                0x00009d14                abort@@GLIBC_2.4
+                0x00009d20                glBindAttribLocation
+                0x00009d2c                glGetShaderiv
+                0x00009d38                pthread_exit@@GLIBC_2.4
+                0x00009d44                __libc_start_main@@GLIBC_2.4
+                0x00009d50                __aeabi_dmul@@GCC_3.5
+                0x00009d68                glDisable
+                0x00009d74                glTexParameterf
+                0x00009d80                glClear
+                0x00009d8c                vsprintf@@GLIBC_2.4
+                0x00009d98                eglGetConfigs
+                0x00009da4                fclose@@GLIBC_2.4
+                0x00009db0                getenv@@GLIBC_2.4
+                0x00009dbc                _IO_getc@@GLIBC_2.4
+                0x00009dc8                system@@GLIBC_2.4
+                0x00009dd4                sem_init@@GLIBC_2.4
+                0x00009de0                fopen@@GLIBC_2.4
+                0x00009dec                eglInitialize
+                0x00009df8                memset@@GLIBC_2.4
+                0x00009e04                glValidateProgram
+                0x00009e10                sem_destroy@@GLIBC_2.4
+                0x00009e1c                glDeleteProgram
+                0x00009e28                ungetc@@GLIBC_2.4
+                0x00009e34                glUniformMatrix4fv
+                0x00009e40                perror@@GLIBC_2.4
+                0x00009e4c                eglDestroyContext
+                0x00009e58                glUseProgram
+                0x00009e64                glClearColor
+                0x00009e70                eglCreateContext
+                0x00009e7c                eglMakeCurrent
+                0x00009e88                __aeabi_fmul@@GCC_3.5
+                0x00009e94                glDeleteShader
+                0x00009ea0                eglGetProcAddress
+                0x00009eac                free@@GLIBC_2.4
+                0x00009eb8                read@@GLIBC_2.4
+                0x00009ec4                glEnableVertexAttribArray
+                0x00009ed0                gettimeofday@@GLIBC_2.4
+                0x00009edc                glActiveTexture
+                0x00009ee8                pthread_mutex_unlock@@GLIBC_2.4
+                0x00009ef4                eglSwapBuffers
+                0x00009f00                ioctl@@GLIBC_2.4
+                0x00009f0c                glGetProgramInfoLog
+                0x00009f18                __aeabi_dadd@@GCC_3.5
+                0x00009f24                pthread_mutex_lock@@GLIBC_2.4
+                0x00009f30                strlen@@GLIBC_2.4
+                0x00009f3c                glBindTexture
+                0x00009f48                pthread_create@@GLIBC_2.4
+                0x00009f54                memcpy@@GLIBC_2.4
+                0x00009f60                glGetProgramiv
+                0x00009f6c                eglDestroySurface
+                0x00009f78                glCreateShader
+                0x00009f84                glDeleteTextures
+                0x00009f90                strtol@@GLIBC_2.4
+                0x00009f9c                strcpy@@GLIBC_2.4
+                0x00009fa8                sem_post@@GLIBC_2.4
+                0x00009fb4                pthread_sigmask@@GLIBC_2.4
+                0x00009fc0                glCreateProgram
+                0x00009fcc                printf@@GLIBC_2.4
+                0x00009fd8                sincosf@@GLIBC_2.4
+                0x00009fe4                pthread_mutex_init@@GLIBC_2.4
+                0x00009ff0                _Znwj@@GLIBCXX_3.4
+                0x00009ffc                strstr@@GLIBC_2.4
+                0x0000a008                close@@GLIBC_2.4
+                0x0000a014                glUniform1i
+                0x0000a020                __aeabi_i2d@@GCC_3.5
+                0x0000a02c                fwrite@@GLIBC_2.4
+                0x0000a038                __aeabi_uidivmod@@GCC_3.5
+                0x0000a044                eglSwapInterval
+                0x0000a050                __ctype_b_loc@@GLIBC_2.4
+                0x0000a05c                malloc@@GLIBC_2.4
+                0x0000a068                eglGetError
+                0x0000a074                glDepthFunc
+                0x0000a080                glDrawArrays
+                0x0000a08c                __aeabi_f2d@@GCC_3.5
+                0x0000a098                sleep@@GLIBC_2.4
+                0x0000a0a4                sigfillset@@GLIBC_2.4
+                0x0000a0b0                glVertexAttribPointer
+                0x0000a0bc                puts@@GLIBC_2.4
+                0x0000a0c8                glGetString
+                0x0000a0d4                getpid@@GLIBC_2.4
+                0x0000a0e0                glLinkProgram
+                0x0000a0ec                fcntl@@GLIBC_2.4
+                0x0000a0f8                glGetShaderInfoLog
+                0x0000a104                lseek@@GLIBC_2.4
+                0x0000a110                munmap@@GLIBC_2.4
+                0x0000a11c                glShaderSource
+                0x0000a128                __aeabi_d2iz@@GCC_3.5
+                0x0000a134                fread@@GLIBC_2.4
+                0x0000a140                __aeabi_d2f@@GCC_3.5
+                0x0000a14c                nanosleep@@GLIBC_2.4
+                0x0000a158                eglGetDisplay
+                0x0000a164                eglTerminate
+                0x0000a170                glGetUniformLocation
+                0x0000a17c                sem_wait@@GLIBC_2.4
+                0x0000a188                strcmp@@GLIBC_2.4
+                0x0000a194                eglCreateWindowSurface
+                0x0000a1a0                __errno_location@@GLIBC_2.4
+                0x0000a1ac                pthread_self@@GLIBC_2.4
+                0x0000a1b8                glGenTextures
+                0x0000a1c4                sprintf@@GLIBC_2.4
+                0x0000a1d0                pthread_join@@GLIBC_2.4
+                0x0000a1dc                glCompileShader
+                0x0000a1e8                eglChooseConfig
+                0x0000a1f4                getpagesize@@GLIBC_2.4
+
+.text           0x0000a200    0x2f3e0
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x0000a200       0x38 /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../arm-none-linux-gnueabi/libc/usr/lib/crt1.o
+                0x0000a200                _start
+ .text          0x0000a238       0x24 /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../arm-none-linux-gnueabi/libc/usr/lib/crti.o
+ .text          0x0000a25c       0x4c /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-linux-gnueabi/4.3.3/crtbegin.o
+ .text          0x0000a2a8     0x16fc bin/release/obj/main_host.ov5T
+                0x0000a2e4                commandQGet
+                0x0000a2a8                frame_init
+                0x0000b928                frame_get
+                0x0000a2e8                commandQPut
+                0x0000a6b8                frame_cleanup
+                0x0000a350                drawCube
+                0x0000a2ec                usage
+                0x0000b8d0                main
+ .text          0x0000b9a4      0xbdc bin/release/obj/App.ov5T
+                0x0000c3f0                App_delete
+                0x0000b9a4                App_exec
+                0x0000c0a4                App_create
+ .text          0x0000c580      0x7b4 bin/release/obj/ParaMP4Enc.ov5T
+                0x0000c66c                Get_MPEG4Par_File
+                0x0000c580                ConfigureStandardPar_MPEG4
+ .text          0x0000cd34      0x2c4 bin/release/obj/ParaParser.ov5T
+                0x0000ce84                parGetToken
+                0x0000cd34                parSkipSpace
+                0x0000cd84                parSkipComment
+ .text          0x0000cff8       0x4c bin/release/obj/CallBack.ov5T
+                0x0000d024                MP4SendData
+                0x0000cff8                MP4GetBuff
+ .text          0x0000d044      0xe80 bin/release/obj/common.ov5T
+                0x0000db50                get_disp_resolution
+                0x0000dc10                initEGL
+                0x0000d344                deInitEGL
+                0x0000d23c                reset_shaders_idx0
+                0x0000d044                pattern_uyvy
+                0x0000d9e0                initTexExt
+                0x0000d218                signalHandler
+ .text          0x0000dec4       0x14 bin/release/obj/customer_folder/111.ov5T
+                0x0000dec4                test111
+ .text          0x0000ded8     0x2e68 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(SharedRegion.o)
+                0x000102cc                SharedRegion_getPtr
+                0x000104a4                SharedRegion_setup
+                0x0000e7cc                SharedRegion_isCacheEnabled
+                0x0000e39c                SharedRegion_getRegionInfo
+                0x0000e72c                SharedRegion_getNumRegions
+                0x0000e520                SharedRegion_getNumOffsetBits
+                0x0000ea78                SharedRegion_getEntry
+                0x0000f820                SharedRegion_checkOverlap
+                0x0000ec1c                SharedRegion_getSRPtr
+                0x0000f578                SharedRegion_clearEntry
+                0x0000f458                SharedRegion_getConfig
+                0x0000e084                SharedRegion_clearReservedMemory
+                0x0000f0e8                SharedRegion_stop
+                0x00010090                SharedRegion_destroy
+                0x0000e158                _SharedRegion_setRegions
+                0x0000fe6c                SharedRegion_getIdByName
+                0x000108d0                SharedRegion_reserveMemory
+                0x0000f298                SharedRegion_getHeap
+                0x0000ded8                SharedRegion_invalidSRPtr
+                0x0000f1c0                SharedRegion_start
+                0x0000efd4                SharedRegion_attach
+                0x0000fa38                SharedRegion_getId
+                0x0000eec8                SharedRegion_detach
+                0x0000e930                SharedRegion_getCacheLineSize
+                0x0000fbec                SharedRegion_setEntry
+                0x0000e77c                SharedRegion_translateEnabled
+                0x0000dee0                _SharedRegion_clearRegions
+                0x0000e5fc                SharedRegion_entryInit
+ .text          0x00010d40     0x20e8 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(Notify.o)
+                0x00012cf0                Notify_getConfig
+                0x00012520                Notify_registerEventSingle
+                0x00011238                Notify_restore
+                0x00011a0c                Notify_sendEvent
+                0x00010fbc                Notify_disableEvent
+                0x00011544                Notify_intLineRegistered
+                0x00012820                Notify_sharedMemReq
+                0x00011cb4                Notify_unregisterEvent
+                0x00012b8c                Notify_setup
+                0x00011f7c                Notify_unregisterEventSingle
+                0x0001170c                Notify_eventAvailable
+                0x00012ab0                Notify_destroy
+                0x00011928                Notify_detach
+                0x0001296c                Notify_attach
+                0x0001221c                Notify_registerEvent
+                0x000113b8                Notify_disable
+                0x00010d40                Notify_enableEvent
+ .text          0x00012e28     0x1d2c /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(MessageQ.o)
+                0x000138ac                MessageQ_close
+                0x00013afc                MessageQ_setReplyQueue
+                0x000141e8                MessageQ_staticMsgInit
+                0x00013154                MessageQ_getQueueId
+                0x00012e28                MessageQ_detach
+                0x00013a14                MessageQ_setMsgTrace
+                0x00012ed8                MessageQ_unregisterHeap
+                0x00014a38                MessageQ_getConfig
+                0x00013fc0                MessageQ_get
+                0x000133d0                MessageQ_free
+                0x00014928                MessageQ_setup
+                0x000142e8                MessageQ_open
+                0x000136d4                MessageQ_put
+                0x00013ea8                MessageQ_alloc
+                0x00014694                MessageQ_create
+                0x00013d68                MessageQ_Params_init
+                0x00013c20                MessageQ_unblock
+                0x00013540                MessageQ_count
+                0x0001486c                MessageQ_destroy
+                0x000144c0                MessageQ_delete
+                0x00012fc0                MessageQ_attach
+                0x00013210                MessageQ_registerHeap
+                0x00013090                MessageQ_sharedMemReq
+ .text          0x00014b54     0x1100 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(Ipc.o)
+                0x00014bcc                Ipc_writeConfig
+                0x00014b54                Ipc_runtimeId
+                0x00015950                Ipc_control
+                0x00015394                Ipc_destroy
+                0x00014e98                Ipc_setup
+                0x00014d3c                Ipc_getConfig
+                0x00014c84                Ipc_readConfig
+ .text          0x00015c54     0x21c0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(RingIO.o)
+                0x00016794                RingIO_unregisterNotifier
+                0x0001790c                RingIO_destroy
+                0x00016ba4                RingIO_close
+                0x000179dc                RingIO_getConfig
+                0x00016460                RingIO_flush
+                0x00017c14                RingIO_setAttribute
+                0x00016250                RingIO_getValidSize
+                0x000163d8                RingIO_sendNotify
+                0x00015c54                RingIO_sharedMemReq
+                0x00016db8                RingIO_delete
+                0x00016fc4                RingIO_openByAddr
+                0x00015ed8                RingIO_getWaterMark
+                0x00016a64                RingIO_Params_init
+                0x00016094                RingIO_getEmptyAttrSize
+                0x00015db0                RingIO_release
+                0x00016000                RingIO_getAcquiredOffset
+                0x000168c4                RingIO_registerNotifier
+                0x000162e4                RingIO_setNotifyType
+                0x0001727c                RingIO_open
+                0x000165c0                RingIO_getvAttribute
+                0x0001666c                RingIO_acquire
+                0x000161bc                RingIO_getEmptySize
+                0x00015e44                RingIO_setWaterMark
+                0x00015d24                RingIO_cancel
+                0x00017d18                RingIO_getAttribute
+                0x00017538                RingIO_create
+                0x00016128                RingIO_getValidAttrSize
+                0x00017af8                RingIO_setup
+                0x0001650c                RingIO_setvAttribute
+                0x00015f6c                RingIO_getAcquiredSize
+ .text          0x00017e14      0x444 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(RingIOShm.o)
+                0x0001813c                RingIOShm_setup
+                0x00017e14                RingIOShm_Params_init
+                0x00017f54                RingIOShm_destroy
+                0x00018020                RingIOShm_getConfig
+ .text          0x00018258     0x4264 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(FrameQ.o)
+                0x0001a30c                FrameQ_freev
+                0x00018ec8                FrameQ_sendNotify
+                0x0001a54c                FrameQ_free
+                0x0001b9fc                FrameQ_close
+                0x00019fc8                FrameQ_getv
+                0x000194c4                FrameQ_registerNotifier
+                0x0001ab54                FrameQ_open
+                0x0001a718                FrameQ_allocv
+                0x00019260                FrameQ_unregisterNotifier
+                0x0001bd60                FrameQ_create
+                0x0001a954                FrameQ_alloc
+                0x000184fc                FrameQ_ShMem_Params_init
+                0x00018774                FrameQ_getvNumFreeFrames
+                0x00018648                FrameQ_control
+                0x00019048                FrameQ_dup
+                0x00018258                FrameQ_ShMem_sharedMemReq
+                0x00018b04                FrameQ_getvNumFrames
+                0x000183b0                FrameQ_Params_init
+                0x00019d48                FrameQ_put
+                0x0001b3ac                FrameQ_getConfig
+                0x00018980                FrameQ_getNumFreeFrames
+                0x000197f0                FrameQ_get
+                0x0001b248                FrameQ_destroy
+                0x00018cec                FrameQ_getNumFrames
+                0x0001b4c8                FrameQ_setup
+                0x0001b6b4                FrameQ_delete
+                0x00019a4c                FrameQ_putv
+ .text          0x0001c4bc     0x43a8 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(FrameQBufMgr.o)
+                0x0001c93c                FrameQBufMgr_getKnlHandle
+                0x0001f01c                FrameQBufMgr_freev
+                0x0001cea0                FrameQBufMgr_add
+                0x0001fc18                FrameQBufMgr_close
+                0x0001e060                FrameQBufMgr_writeBackFrameBuf
+                0x0001c524                FrameQBufMgr_getId
+                0x0001cfac                FrameQBufMgr_translateAddr
+                0x0001f96c                FrameQBufMgr_delete
+                0x0001c9d0                FrameQBufMgr_getvNumFreeFrames
+                0x0001ed1c                FrameQBufMgr_dupv
+                0x0001c4c8                FrameQBufMgr_isSupportedBufInterface
+                0x0001e55c                FrameQBufMgr_allocv
+                0x000203d4                FrameQBufMgr_destroy
+                0x0002054c                FrameQBufMgr_getConfig
+                0x0001d22c                FrameQBufMgr_free
+                0x0001d684                FrameQBufMgr_invalidate
+                0x0001c59c                FrameQBufMgr_getHandle
+                0x0001cd20                FrameQBufMgr_getNumFreeFrames
+                0x0001d8ac                FrameQBufMgr_writeBack
+                0x0001c4bc                FrameQBufMgr_isSupportedInterface
+                0x0001c7f0                FrameQBufMgr_ShMem_Params_init
+                0x0001fd64                FrameQBufMgr_create
+                0x0001dc84                FrameQBufMgr_writeBackHeaderBuf
+                0x0001c4e4                FrameQBufMgr_getBaseHeaderSize
+                0x0001e294                FrameQBufMgr_dup
+                0x0001d464                FrameQBufMgr_alloc
+                0x0001eac8                FrameQBufMgr_registerNotifier
+                0x0001de2c                FrameQBufMgr_invalidateFrameBuf
+                0x00020674                FrameQBufMgr_setup
+                0x0001cbdc                FrameQBufMgr_remove
+                0x0001c698                FrameQBufMgr_Params_init
+                0x0001e8e8                FrameQBufMgr_unregisterNotifier
+                0x0001dac4                FrameQBufMgr_invalidateHeaderBuf
+                0x0001f338                FrameQBufMgr_open
+ .text          0x00020864     0x2f54 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(ClientNotifyMgr.o)
+                0x0002174c                ClientNotifyMgr_sendNotification
+                0x00020864                ClientNotifyMgr_sendForceNotificationMulti
+                0x00022544                ClientNotifyMgr_close
+                0x00020b7c                ClientNotifyMgr_disableNotification
+                0x00022740                ClientNotifyMgr_sharedMemReq
+                0x00022834                ClientNotifyMgr_create
+                0x00022f50                ClientNotifyMgr_destroy
+                0x0002339c                ClientNotifyMgr_callBack
+                0x0002318c                ClientNotifyMgr_setup
+                0x00022f10                ClientNotifyMgr_sharedMemModReq
+                0x00020f5c                ClientNotifyMgr_sendNotificationMulti
+                0x00021b5c                ClientNotifyMgr_unregisterClient
+                0x0002305c                ClientNotifyMgr_getConfig
+                0x00020d64                ClientNotifyMgr_enableNotification
+                0x000214b0                ClientNotifyMgr_sendForceNotification
+                0x000225f4                ClientNotifyMgr_Params_init
+                0x00022210                ClientNotifyMgr_delete
+                0x00021e2c                ClientNotifyMgr_registerClient
+                0x00022e0c                ClientNotifyMgr_open
+ .text          0x000237b8     0x1f08 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(HeapMemMP.o)
+                0x00024a04                HeapMemMP_getConfig
+                0x00024310                HeapMemMP_getStats
+                0x00025398                HeapMemMP_create
+                0x00024160                HeapMemMP_getExtendedStats
+                0x00023c64                _HeapMemMP_create
+                0x000237b8                HeapMemMP_getKnlHandle
+                0x000248f4                HeapMemMP_setup
+                0x00024820                HeapMemMP_destroy
+                0x00023b28                HeapMemMP_Params_init
+                0x00024b20                HeapMemMP_getUsrHandle
+                0x00023d98                HeapMemMP_close
+                0x00023908                HeapMemMP_sharedMemReq
+                0x00023a38                HeapMemMP_restore
+                0x00023f7c                HeapMemMP_delete
+                0x000244c0                HeapMemMP_free
+                0x00024688                HeapMemMP_alloc
+                0x00024d6c                HeapMemMP_openByAddr
+                0x00025080                HeapMemMP_open
+ .text          0x000256c0     0x1cbc /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(HeapBufMP.o)
+                0x00027060                HeapBufMP_create
+                0x00025b38                HeapBufMP_close
+                0x00026d3c                HeapBufMP_openByAddr
+                0x00025a04                HeapBufMP_sharedMemReq
+                0x00025948                HeapBufMP_isBlocking
+                0x000260bc                HeapBufMP_getStats
+                0x0002671c                HeapBufMP_destroy
+                0x000267f0                HeapBufMP_setup
+                0x000256c0                _HeapBufMP_create
+                0x00026580                HeapBufMP_alloc
+                0x00026904                HeapBufMP_getConfig
+                0x00026270                HeapBufMP_Params_init
+                0x00025d20                HeapBufMP_delete
+                0x000257f8                HeapBufMP_getKnlHandle
+                0x000263b0                HeapBufMP_free
+                0x00026a20                HeapBufMP_open
+                0x00025f04                HeapBufMP_getExtendedStats
+ .text          0x0002737c     0x1820 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(GateMP.o)
+                0x000288a4                GateMP_getConfig
+                0x00027624                GateMP_getDefaultRemote
+                0x000277a4                GateMP_enter
+                0x000278fc                GateMP_Instance_finalize
+                0x00028708                GateMP_setup
+                0x000289d0                GateMP_delete
+                0x00027e14                GateMP_openByAddr
+                0x00028230                GateMP_Instance_init
+                0x0002757c                GateMP_getSharedAddr
+                0x00027be0                GateMP_close
+                0x0002792c                GateMP_Params_init
+                0x00028024                GateMP_open
+                0x000274b8                GateMP_getLocalProtect
+                0x00028344                _GateMP_create
+                0x000276d4                GateMP_sharedMemReq
+                0x00027a7c                GateMP_leave
+                0x0002747c                GateMP_getRemoteProtect
+                0x00028408                GateMP_create
+                0x0002737c                GateMP_getKnlHandle
+                0x000285d4                GateMP_destroy
+                0x000274f4                GateMP_setReserved
+ .text          0x00028b9c      0x458 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(SharedRegionDrv.o)
+                0x00028b9c                SharedRegionDrv_ioctl
+                0x00028e0c                SharedRegionDrv_close
+                0x00028ed4                SharedRegionDrv_open
+ .text          0x00028ff4      0x5e8 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(NotifyDrvUsr.o)
+                0x00028ff4                _NotifyDrvUsr_eventWorker
+                0x00029230                NotifyDrvUsr_close
+                0x00029140                NotifyDrvUsr_ioctl
+                0x0002937c                NotifyDrvUsr_open
+ .text          0x000295dc      0x320 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(HeapBufMPDrv.o)
+                0x00029784                HeapBufMPDrv_open
+                0x000295dc                HeapBufMPDrv_ioctl
+                0x000296bc                HeapBufMPDrv_close
+ .text          0x000298fc      0x328 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(MessageQDrv.o)
+                0x000298fc                MessageQDrv_ioctl
+                0x00029aa4                MessageQDrv_open
+                0x000299dc                MessageQDrv_close
+ .text          0x00029c24      0x314 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(IpcDrv.o)
+                0x00029dcc                IpcDrv_open
+                0x00029c24                IpcDrv_ioctl
+                0x00029d04                IpcDrv_close
+ .text          0x00029f38      0x2c4 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(FrameQDrv.o)
+                0x00029f38                FrameQDrv_ioctl
+                0x0002a0e0                FrameQDrv_open
+                0x0002a018                FrameQDrv_close
+ .text          0x0002a1fc      0x2c4 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(FrameQBufMgrDrv.o)
+                0x0002a3a4                FrameQBufMgrDrv_open
+                0x0002a2dc                FrameQBufMgrDrv_close
+                0x0002a1fc                FrameQBufMgrDrv_ioctl
+ .text          0x0002a4c0      0x2c4 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(ClientNotifyMgrDrv.o)
+                0x0002a668                ClientNotifyMgrDrv_open
+                0x0002a4c0                ClientNotifyMgrDrv_ioctl
+                0x0002a5a0                ClientNotifyMgrDrv_close
+ .text          0x0002a784      0x2c4 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(RingIODrv.o)
+                0x0002a864                RingIODrv_close
+                0x0002a784                RingIODrv_ioctl
+                0x0002a92c                RingIODrv_open
+ .text          0x0002aa48      0x2c4 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(RingIOShmDrv.o)
+                0x0002aa48                RingIOShmDrv_ioctl
+                0x0002ab28                RingIOShmDrv_close
+                0x0002abf0                RingIOShmDrv_open
+ .text          0x0002ad0c      0x2cc /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(HeapMemMPDrv.o)
+                0x0002adec                HeapMemMPDrv_close
+                0x0002ad0c                HeapMemMPDrv_ioctl
+                0x0002aeb4                HeapMemMPDrv_open
+ .text          0x0002afd8      0x2cc /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(GateMPDrv.o)
+                0x0002b180                GateMPDrv_open
+                0x0002b0b8                GateMPDrv_close
+                0x0002afd8                GateMPDrv_ioctl
+ .text          0x0002b2a4        0x8 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(OsalProcess.o)
+                0x0002b2a4                OsalProcess_getTid
+                0x0002b2a8                OsalProcess_getPid
+ .text          0x0002b2ac      0x4b4 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(GateMutex.o)
+                0x0002b2ac                GateMutex_leave
+                0x0002b64c                GateMutex_delete
+                0x0002b50c                GateMutex_create
+                0x0002b340                GateMutex_enter
+                0x0002b44c                GateMutex_Instance_init
+                0x0002b3e0                GateMutex_Instance_finalize
+ .text          0x0002b760      0x774 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(Memory.o)
+                0x0002b760                Memory_getMaxDefaultTypeAlign
+                0x0002bbc4                Memory_getStats
+                0x0002b768                Memory_translate
+                0x0002ba18                Memory_valloc
+                0x0002bda8                Memory_calloc
+                0x0002b8b0                Memory_alloc
+                0x0002b7d0                Memory_query
+                0x0002bca8                Memory_free
+ .text          0x0002bed4     0x1134 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(List.o)
+                0x0002cc1c                List_get
+                0x0002c5fc                List_construct
+                0x0002cd34                List_put
+                0x0002c8c8                List_insert
+                0x0002c6ac                List_Params_init
+                0x0002c814                List_destruct
+                0x0002cb5c                List_create
+                0x0002ca34                List_delete
+                0x0002c138                List_remove
+                0x0002c264                List_dequeue
+                0x0002c74c                List_empty
+                0x0002c478                List_next
+                0x0002c004                List_enqueue
+                0x0002c54c                List_elemClear
+                0x0002bed4                List_enqueueHead
+                0x0002c33c                List_prev
+                0x0002cea0                List_putHead
+ .text          0x0002d008      0x34c /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(String.o)
+                0x0002d2c8                String_hash
+                0x0002d188                String_cpy
+                0x0002d03c                String_cmp
+                0x0002d120                String_ncmp
+                0x0002d238                String_hexToStr
+                0x0002d1a4                String_ncpy
+                0x0002d008                String_cat
+                0x0002d204                String_len
+ .text          0x0002d354      0x370 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(Trace.o)
+                0x0002d608                _GT_0trace
+                0x0002d410                _GT_5trace
+                0x0002d644                _GT_setTrace
+                0x0002d5c0                _GT_1trace
+                0x0002d488                _GT_4trace
+                0x0002d4f8                _GT_3trace
+                0x0002d560                _GT_2trace
+                0x0002d394                _GT_6trace
+                0x0002d354                _GT_setFailureReason
+ .text          0x0002d6c4     0x24c4 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(NameServer.o)
+                0x0002f310                NameServer_create
+                0x0002dbc0                NameServer_match
+                0x0002de1c                NameServer_getLocal
+                0x0002e614                NameServer_addUInt32
+                0x0002d834                NameServer_delete
+                0x0002e354                NameServer_add
+                0x0002f870                NameServer_destroy
+                0x0002d9f0                NameServer_getHandle
+                0x0002e120                NameServer_getLocalUInt32
+                0x0002f930                NameServer_setup
+                0x0002f728                NameServer_Params_init
+                0x0002ed44                NameServer_removeEntry
+                0x0002f0d4                NameServer_open
+                0x0002e7ac                NameServer_get
+                0x0002f550                NameServer_close
+                0x0002ef04                NameServer_remove
+                0x0002d6c4                NameServer_isRegistered
+                0x0002eb04                NameServer_getUInt32
+                0x0002fa3c                NameServer_getConfig
+ .text          0x0002fb88      0xa18 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(MultiProc.o)
+                0x00030070                MultiProc_destroy
+                0x0002fb88                MultiProc_self
+                0x0002fbdc                MultiProc_getNumProcessors
+                0x00030130                MultiProc_setup
+                0x0002fef8                MultiProc_setLocalId
+                0x0002fc2c                MultiProc_getName
+                0x0002fd60                MultiProc_getId
+                0x000303a8                MultiProc_getSlot
+                0x0003025c                MultiProc_getConfig
+ .text          0x000305a0       0xf8 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(Gate.o)
+                0x000305a0                Gate_leaveSystem
+                0x000305dc                Gate_enterSystem
+ .text          0x00030698       0x98 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(SysLink.o)
+                0x00030698                SysLink_destroy
+                0x000306d8                SysLink_setup
+ .text          0x00030730      0x33c /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(Cache.o)
+                0x000307b8                Cache_setMode
+                0x00030730                Cache_wait
+                0x000309bc                Cache_inv
+                0x0003090c                Cache_wb
+                0x0003085c                Cache_wbInv
+ .text          0x00030a6c      0x320 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(NameServerDrv.o)
+                0x00030c14                NameServerDrv_open
+                0x00030b4c                NameServerDrv_close
+                0x00030a6c                NameServerDrv_ioctl
+ .text          0x00030d8c      0x298 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(MultiProcDrv.o)
+                0x00030d8c                MultiProcDrv_ioctl
+                0x00030e40                MultiProcDrv_close
+                0x00030f08                MultiProcDrv_open
+ .text          0x00031024       0xe8 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(TraceDrv.o)
+                0x00031024                TraceDrv_ioctl
+ .text          0x0003110c       0xb0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(CacheDrv.o)
+                0x0003110c                CacheDrv_ioctl
+ .text          0x000311bc      0x10c /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(Dev.o)
+                0x000311bc                Dev_pollOpen
+ .text          0x000312c8     0x120c /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(MemoryOS.o)
+                0x0003194c                MemoryOS_set
+                0x00031ab8                MemoryOS_copy
+                0x000320ac                MemoryOS_map
+                0x000315bc                MemoryOS_setup
+                0x00031740                MemoryOS_translate
+                0x00031380                MemoryOS_alloc
+                0x0003144c                MemoryOS_destroy
+                0x00031d70                MemoryOS_unmap
+                0x00031c20                MemoryOS_calloc
+                0x000312c8                MemoryOS_free
+ .text          0x000324d4      0x57c /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(OsalDrv.o)
+                0x0003263c                OsalDrv_close
+                0x00032718                OsalDrv_open
+                0x000325c4                OsalDrv_unmap
+                0x000324d4                OsalDrv_ioctl
+                0x0003284c                OsalDrv_map
+ .text          0x00032a50      0x3e0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(OsalMutex.o)
+                0x00032c04                OsalMutex_delete
+                0x00032d14                OsalMutex_create
+                0x00032b2c                OsalMutex_enter
+                0x00032a50                OsalMutex_leave
+ .text          0x00032e30       0x48 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(OsalPrint.o)
+                0x00032e30                Osal_printf
+ .text          0x00032e78     0x38d0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(ProcMgr.o)
+                0x00033724                ProcMgr_getSymbolAddress
+                0x000361e8                ProcMgr_destroy
+                0x000343f4                ProcMgr_unmap
+                0x000331ec                ProcMgr_delete
+                0x00035348                ProcMgr_load
+                0x00035038                ProcMgr_getStartParams
+                0x00034a1c                ProcMgr_detach
+                0x000333e4                ProcMgr_getSectionData
+                0x0003662c                ProcMgr_getConfig
+                0x00033ea4                ProcMgr_start
+                0x00032e78                ProcMgr_getMaxMemoryRegions
+                0x000330f0                ProcMgr_stop
+                0x00035b2c                ProcMgr_open
+                0x00034bd4                ProcMgr_map
+                0x00035240                ProcMgr_Params_init
+                0x00033fac                ProcMgr_unload
+                0x000355ac                ProcMgr_attach
+                0x00033b2c                ProcMgr_read
+                0x000340b4                ProcMgr_translateAddr
+                0x00035f04                ProcMgr_create
+                0x00032fe8                ProcMgr_getState
+                0x00032ef0                ProcMgr_getLoadedFileId
+                0x00035138                ProcMgr_getAttachParams
+                0x00035828                ProcMgr_close
+                0x00033928                ProcMgr_write
+                0x00034f28                ProcMgr_control
+                0x00033d2c                ProcMgr_getProcInfo
+                0x0003359c                ProcMgr_getSectionInfo
+                0x000364f8                ProcMgr_setup
+ .text          0x00036748      0x44c /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(ProcMgrDrvUsr.o)
+                0x00036818                ProcMgrDrvUsr_open
+                0x00036748                ProcMgrDrvUsr_close
+                0x00036940                ProcMgrDrvUsr_ioctl
+ .text          0x00036b94      0x700 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(FrameQ_common.o)
+                0x00036e10                FrameQ_getNumFrameBuffers
+                0x00036fb8                FrameQ_getFrameBufValidSize
+                0x00036be0                FrameQ_setFrameBufDataStartOffset
+                0x00036cf8                FrameQ_setFrameBufValidSize
+                0x000371a0                FrameQ_getFrameBuffer
+                0x000370b0                FrameQ_getFrameBufSize
+                0x00036b94                FrameQ_isSupportedInterface
+                0x00036ec0                FrameQ_getFrameBufDataStartOffset
+                0x00036ba0                FrameQ_getExtendedHeaderPtr
+ .text          0x00037294     0x2010 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(ListMP.o)
+                0x00038a50                ListMP_getConfig
+                0x00038fd0                ListMP_create
+                0x0003729c                _ListMP_create
+                0x00037c58                ListMP_prev
+                0x00037358                ListMP_remove
+                0x00038254                ListMP_close
+                0x00038940                ListMP_setup
+                0x00038b6c                ListMP_open
+                0x00038dbc                ListMP_openByAddr
+                0x0003841c                ListMP_delete
+                0x00037294                ListMP_getGate
+                0x00037f74                ListMP_getTail
+                0x0003886c                ListMP_destroy
+                0x0003752c                ListMP_insert
+                0x00038728                ListMP_Params_init
+                0x000380e8                ListMP_getHead
+                0x00037748                ListMP_putTail
+                0x00037de4                ListMP_next
+                0x000385ec                ListMP_sharedMemReq
+                0x0003791c                ListMP_putHead
+                0x00037af0                ListMP_empty
+ .text          0x000392a4      0x2cc /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(ListMPDrv.o)
+                0x00039384                ListMPDrv_close
+                0x000392a4                ListMPDrv_ioctl
+                0x0003944c                ListMPDrv_open
+ .text          0x00039570       0x70 /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../arm-none-linux-gnueabi/libc/usr/lib/libc_nonshared.a(elf-init.oS)
+                0x00039570                __libc_csu_fini
+                0x00039574                __libc_csu_init
+ .text          0x000395e0        0x0 /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-linux-gnueabi/4.3.3/crtend.o
+ .text          0x000395e0        0x0 /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../arm-none-linux-gnueabi/libc/usr/lib/crtn.o
+ *(.gnu.warning)
+ *(.glue_7t)
+ .glue_7t       0x00000000        0x0 linker stubs
+ *(.glue_7)
+ .glue_7        0x00000000        0x0 linker stubs
+ *(.vfp11_veneer)
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+ *(.v4_bx)
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.fini           0x000395e0        0x8
+ *(.fini)
+ .fini          0x000395e0        0x4 /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../arm-none-linux-gnueabi/libc/usr/lib/crti.o
+                0x000395e0                _fini
+ .fini          0x000395e4        0x4 /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../arm-none-linux-gnueabi/libc/usr/lib/crtn.o
+                0x000395e8                PROVIDE (__etext, .)
+                0x000395e8                PROVIDE (_etext, .)
+                0x000395e8                PROVIDE (etext, .)
+
+.rodata         0x000395e8    0x14dbc
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.cst4   0x000395e8        0x4 /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../arm-none-linux-gnueabi/libc/usr/lib/crt1.o
+                0x000395e8                _IO_stdin_used
+ .rodata.str1.4
+                0x000395ec      0xad2 bin/release/obj/main_host.ov5T
+                                0xadc (size before relaxing)
+ *fill*         0x0003a0be        0x2 00
+ .rodata.str1.4
+                0x0003a0c0      0x250 bin/release/obj/App.ov5T
+ .rodata.str1.4
+                0x0003a310      0x1c8 bin/release/obj/ParaMP4Enc.ov5T
+ .rodata        0x0003a4d8       0x50 bin/release/obj/common.ov5T
+ .rodata.str1.4
+                0x0003a528      0x6b3 bin/release/obj/common.ov5T
+                                0x6b4 (size before relaxing)
+ *fill*         0x0003abdb        0x1 00
+ .rodata.str1.4
+                0x0003abdc     0x1307 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(SharedRegion.o)
+                               0x1334 (size before relaxing)
+ *fill*         0x0003bee3        0x1 00
+ .rodata.str1.4
+                0x0003bee4      0xbde /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(Notify.o)
+                                0xc5c (size before relaxing)
+ *fill*         0x0003cac2        0x2 00
+ .rodata.str1.4
+                0x0003cac4      0xeec /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(MessageQ.o)
+                                0xfa0 (size before relaxing)
+ .rodata.str1.4
+                0x0003d9b0      0x800 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(Ipc.o)
+                                0x890 (size before relaxing)
+ .rodata.str1.4
+                0x0003e1b0     0x1074 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(RingIO.o)
+                               0x11f4 (size before relaxing)
+ .rodata.str1.4
+                0x0003f224      0x2b0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(RingIOShm.o)
+                                0x370 (size before relaxing)
+ .rodata.str1.4
+                0x0003f4d4     0x199e /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(FrameQ.o)
+                               0x1c3c (size before relaxing)
+ *fill*         0x00040e72        0x2 00
+ .rodata.str1.4
+                0x00040e74     0x191f /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(FrameQBufMgr.o)
+                               0x1ff4 (size before relaxing)
+ *fill*         0x00042793        0x1 00
+ .rodata.str1.4
+                0x00042794     0x11de /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(ClientNotifyMgr.o)
+                               0x1348 (size before relaxing)
+ *fill*         0x00043972        0x2 00
+ .rodata.str1.4
+                0x00043974      0xb69 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(HeapMemMP.o)
+                                0xd30 (size before relaxing)
+ *fill*         0x000444dd        0x3 00
+ .rodata.str1.4
+                0x000444e0      0x94d /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(HeapBufMP.o)
+                                0xcd0 (size before relaxing)
+ *fill*         0x00044e2d        0x3 00
+ .rodata.str1.4
+                0x00044e30      0x8ce /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(GateMP.o)
+                                0xa04 (size before relaxing)
+ *fill*         0x000456fe        0x2 00
+ .rodata.str1.4
+                0x00045700      0x2dd /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(SharedRegionDrv.o)
+                                0x324 (size before relaxing)
+ *fill*         0x000459dd        0x3 00
+ .rodata.str1.4
+                0x000459e0      0x3be /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(NotifyDrvUsr.o)
+                                0x408 (size before relaxing)
+ *fill*         0x00045d9e        0x2 00
+ .rodata.str1.4
+                0x00045da0      0x24e /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(HeapBufMPDrv.o)
+                                0x2dc (size before relaxing)
+ *fill*         0x00045fee        0x2 00
+ .rodata.str1.4
+                0x00045ff0      0x241 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(MessageQDrv.o)
+                                0x2d0 (size before relaxing)
+ *fill*         0x00046231        0x3 00
+ .rodata.str1.4
+                0x00046234      0x1fc /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(IpcDrv.o)
+                                0x288 (size before relaxing)
+ .rodata.str1.4
+                0x00046430      0x21f /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(FrameQDrv.o)
+                                0x290 (size before relaxing)
+ *fill*         0x0004664f        0x1 00
+ .rodata.str1.4
+                0x00046650      0x281 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(FrameQBufMgrDrv.o)
+                                0x2f4 (size before relaxing)
+ *fill*         0x000468d1        0x3 00
+ .rodata.str1.4
+                0x000468d4      0x2c8 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(ClientNotifyMgrDrv.o)
+                                0x320 (size before relaxing)
+ .rodata.str1.4
+                0x00046b9c      0x21f /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(RingIODrv.o)
+                                0x290 (size before relaxing)
+ *fill*         0x00046dbb        0x1 00
+ .rodata.str1.4
+                0x00046dbc      0x22a /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(RingIOShmDrv.o)
+                                0x2b4 (size before relaxing)
+ *fill*         0x00046fe6        0x2 00
+ .rodata.str1.4
+                0x00046fe8      0x24e /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(HeapMemMPDrv.o)
+                                0x2c0 (size before relaxing)
+ *fill*         0x00047236        0x2 00
+ .rodata.str1.4
+                0x00047238      0x21f /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(GateMPDrv.o)
+                                0x290 (size before relaxing)
+ *fill*         0x00047457        0x1 00
+ .rodata.str1.4
+                0x00047458      0x234 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(GateMutex.o)
+                                0x250 (size before relaxing)
+ .rodata.str1.4
+                0x0004768c      0x467 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(Memory.o)
+                                0x518 (size before relaxing)
+ *fill*         0x00047af3        0x1 00
+ .rodata.str1.4
+                0x00047af4      0x7d2 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(List.o)
+                                0x870 (size before relaxing)
+ *fill*         0x000482c6        0x2 00
+ .rodata        0x000482c8      0x400 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(String.o)
+ .rodata.str1.4
+                0x000486c8       0x11 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(String.o)
+                                 0x14 (size before relaxing)
+ *fill*         0x000486d9        0x3 00
+ .rodata.str1.4
+                0x000486dc       0x7c /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(Trace.o)
+ .rodata.str1.4
+                0x00048758      0xbea /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(NameServer.o)
+                                0xe24 (size before relaxing)
+ *fill*         0x00049342        0x2 00
+ .rodata.str1.4
+                0x00049344      0x5a8 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(MultiProc.o)
+                                0x634 (size before relaxing)
+ .rodata.str1.4
+                0x000498ec       0x73 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(Gate.o)
+                                 0xa4 (size before relaxing)
+ *fill*         0x0004995f        0x1 00
+ .rodata.str1.4
+                0x00049960       0x67 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(SysLink.o)
+                                 0x68 (size before relaxing)
+ *fill*         0x000499c7        0x1 00
+ .rodata.str1.4
+                0x000499c8      0x243 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(Cache.o)
+                                0x270 (size before relaxing)
+ *fill*         0x00049c0b        0x1 00
+ .rodata.str1.4
+                0x00049c0c      0x25b /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(NameServerDrv.o)
+                                0x2e8 (size before relaxing)
+ *fill*         0x00049e67        0x1 00
+ .rodata.str1.4
+                0x00049e68      0x236 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(MultiProcDrv.o)
+                                0x278 (size before relaxing)
+ *fill*         0x0004a09e        0x2 00
+ .rodata.str1.4
+                0x0004a0a0       0xe0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(TraceDrv.o)
+                                0x128 (size before relaxing)
+ .rodata.str1.4
+                0x0004a180       0xdf /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(CacheDrv.o)
+                                 0xf8 (size before relaxing)
+ *fill*         0x0004a25f        0x1 00
+ .rodata.str1.4
+                0x0004a260       0xd5 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(Dev.o)
+                                 0xd8 (size before relaxing)
+ *fill*         0x0004a335        0x3 00
+ .rodata.str1.4
+                0x0004a338      0x810 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(MemoryOS.o)
+                                0x91c (size before relaxing)
+ .rodata.str1.4
+                0x0004ab48      0x302 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(OsalDrv.o)
+                                0x39c (size before relaxing)
+ *fill*         0x0004ae4a        0x2 00
+ .rodata.str1.4
+                0x0004ae4c      0x30f /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(OsalMutex.o)
+                                0x34c (size before relaxing)
+ .rodata.str1.4
+                0x00000000      0x30f /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(OsalPrint.o)
+                                  0x4 (size before relaxing)
+ *fill*         0x0004b15b        0x1 00
+ .rodata.str1.4
+                0x0004b15c     0x1d2f /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(ProcMgr.o)
+                               0x1e78 (size before relaxing)
+ *fill*         0x0004ce8b        0x1 00
+ .rodata.str1.4
+                0x0004ce8c      0x310 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(ProcMgrDrvUsr.o)
+                                0x380 (size before relaxing)
+ .rodata.str1.4
+                0x0004d19c      0x5ce /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(FrameQ_common.o)
+                                0x610 (size before relaxing)
+ *fill*         0x0004d76a        0x2 00
+ .rodata.str1.4
+                0x0004d76c      0xa16 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(ListMP.o)
+                                0xc0c (size before relaxing)
+ *fill*         0x0004e182        0x2 00
+ .rodata.str1.4
+                0x0004e184      0x220 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(ListMPDrv.o)
+                                0x290 (size before relaxing)
+
+.rodata1
+ *(.rodata1)
+
+.ARM.extab      0x0004e3a4       0x30
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+ .ARM.extab     0x0004e3a4        0x0 /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../arm-none-linux-gnueabi/libc/usr/lib/crt1.o
+ .ARM.extab     0x0004e3a4        0x0 /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../arm-none-linux-gnueabi/libc/usr/lib/crti.o
+ .ARM.extab     0x0004e3a4        0x0 /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-linux-gnueabi/4.3.3/crtbegin.o
+ .ARM.extab     0x0004e3a4        0x0 bin/release/obj/main_host.ov5T
+ .ARM.extab     0x0004e3a4        0x0 bin/release/obj/App.ov5T
+ .ARM.extab     0x0004e3a4        0xc bin/release/obj/ParaMP4Enc.ov5T
+ .ARM.extab     0x0004e3b0        0x0 bin/release/obj/ParaParser.ov5T
+ .ARM.extab     0x0004e3b0        0x0 bin/release/obj/CallBack.ov5T
+ .ARM.extab     0x0004e3b0        0xc bin/release/obj/common.ov5T
+ .ARM.extab     0x0004e3bc        0x0 bin/release/obj/customer_folder/111.ov5T
+ .ARM.extab     0x0004e3bc        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(SharedRegion.o)
+ .ARM.extab     0x0004e3bc        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(Notify.o)
+ .ARM.extab     0x0004e3bc        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(MessageQ.o)
+ .ARM.extab     0x0004e3bc        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(Ipc.o)
+ .ARM.extab     0x0004e3bc        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(RingIO.o)
+ .ARM.extab     0x0004e3bc        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(RingIOShm.o)
+ .ARM.extab     0x0004e3bc        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(FrameQ.o)
+ .ARM.extab     0x0004e3bc        0xc /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(FrameQBufMgr.o)
+ .ARM.extab     0x0004e3c8        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(ClientNotifyMgr.o)
+ .ARM.extab     0x0004e3c8        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(HeapMemMP.o)
+ .ARM.extab     0x0004e3c8        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(HeapBufMP.o)
+ .ARM.extab     0x0004e3c8        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(GateMP.o)
+ .ARM.extab     0x0004e3c8        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(SharedRegionDrv.o)
+ .ARM.extab     0x0004e3c8        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(NotifyDrvUsr.o)
+ .ARM.extab     0x0004e3c8        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(HeapBufMPDrv.o)
+ .ARM.extab     0x0004e3c8        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(MessageQDrv.o)
+ .ARM.extab     0x0004e3c8        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(IpcDrv.o)
+ .ARM.extab     0x0004e3c8        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(FrameQDrv.o)
+ .ARM.extab     0x0004e3c8        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(FrameQBufMgrDrv.o)
+ .ARM.extab     0x0004e3c8        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(ClientNotifyMgrDrv.o)
+ .ARM.extab     0x0004e3c8        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(RingIODrv.o)
+ .ARM.extab     0x0004e3c8        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(RingIOShmDrv.o)
+ .ARM.extab     0x0004e3c8        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(HeapMemMPDrv.o)
+ .ARM.extab     0x0004e3c8        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(GateMPDrv.o)
+ .ARM.extab     0x0004e3c8        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(OsalProcess.o)
+ .ARM.extab     0x0004e3c8        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(GateMutex.o)
+ .ARM.extab     0x0004e3c8        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(Memory.o)
+ .ARM.extab     0x0004e3c8        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(List.o)
+ .ARM.extab     0x0004e3c8        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(String.o)
+ .ARM.extab     0x0004e3c8        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(Trace.o)
+ .ARM.extab     0x0004e3c8        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(NameServer.o)
+ .ARM.extab     0x0004e3c8        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(MultiProc.o)
+ .ARM.extab     0x0004e3c8        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(Gate.o)
+ .ARM.extab     0x0004e3c8        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(SysLink.o)
+ .ARM.extab     0x0004e3c8        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(Cache.o)
+ .ARM.extab     0x0004e3c8        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(NameServerDrv.o)
+ .ARM.extab     0x0004e3c8        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(MultiProcDrv.o)
+ .ARM.extab     0x0004e3c8        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(TraceDrv.o)
+ .ARM.extab     0x0004e3c8        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(CacheDrv.o)
+ .ARM.extab     0x0004e3c8        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(Dev.o)
+ .ARM.extab     0x0004e3c8        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(MemoryOS.o)
+ .ARM.extab     0x0004e3c8        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(OsalDrv.o)
+ .ARM.extab     0x0004e3c8        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(OsalMutex.o)
+ .ARM.extab     0x0004e3c8        0xc /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(OsalPrint.o)
+ .ARM.extab     0x0004e3d4        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(ProcMgr.o)
+ .ARM.extab     0x0004e3d4        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(ProcMgrDrvUsr.o)
+ .ARM.extab     0x0004e3d4        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(FrameQ_common.o)
+ .ARM.extab     0x0004e3d4        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(ListMP.o)
+ .ARM.extab     0x0004e3d4        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(ListMPDrv.o)
+ .ARM.extab     0x0004e3d4        0x0 /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../arm-none-linux-gnueabi/libc/usr/lib/libc_nonshared.a(elf-init.oS)
+ .ARM.extab.init
+                0x0004e3d4        0x0 /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../arm-none-linux-gnueabi/libc/usr/lib/crtn.o
+ .ARM.extab.fini
+                0x0004e3d4        0x0 /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../arm-none-linux-gnueabi/libc/usr/lib/crtn.o
+                0x0004e3d4                __exidx_start = .
+
+.ARM.exidx      0x0004e3d4      0xb88
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx     0x0004e3e4        0x0 /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../arm-none-linux-gnueabi/libc/usr/lib/crt1.o
+                                  0x8 (size before relaxing)
+ .ARM.exidx     0x0004e3e4        0x8 /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../arm-none-linux-gnueabi/libc/usr/lib/crti.o
+ .ARM.exidx     0x0004e3ec        0x8 /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-linux-gnueabi/4.3.3/crtbegin.o
+                                 0x10 (size before relaxing)
+ .ARM.exidx     0x0004e3f4       0x30 bin/release/obj/main_host.ov5T
+                                 0x50 (size before relaxing)
+ .ARM.exidx     0x0004e424       0x28 bin/release/obj/App.ov5T
+ .ARM.exidx     0x0004e44c       0x10 bin/release/obj/ParaMP4Enc.ov5T
+ .ARM.exidx     0x0004e45c       0x10 bin/release/obj/ParaParser.ov5T
+                                 0x18 (size before relaxing)
+ .ARM.exidx     0x0004e46c       0x10 bin/release/obj/CallBack.ov5T
+ .ARM.exidx     0x0004e47c       0x48 bin/release/obj/common.ov5T
+ .ARM.exidx     0x0004e4c4        0x8 bin/release/obj/customer_folder/111.ov5T
+ .ARM.exidx     0x0004e4cc       0xa8 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(SharedRegion.o)
+                                 0xe0 (size before relaxing)
+ .ARM.exidx     0x0004e574       0x60 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(Notify.o)
+                                 0x88 (size before relaxing)
+ .ARM.exidx     0x0004e5d4       0x98 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(MessageQ.o)
+                                 0xb8 (size before relaxing)
+ .ARM.exidx     0x0004e66c       0x28 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(Ipc.o)
+                                 0x38 (size before relaxing)
+ .ARM.exidx     0x0004e694       0xb0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(RingIO.o)
+                                 0xf0 (size before relaxing)
+ .ARM.exidx     0x0004e744       0x10 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(RingIOShm.o)
+                                 0x20 (size before relaxing)
+ .ARM.exidx     0x0004e754       0xd0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(FrameQ.o)
+                                 0xd8 (size before relaxing)
+ .ARM.exidx     0x0004e824       0xe8 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(FrameQBufMgr.o)
+                                0x110 (size before relaxing)
+ .ARM.exidx     0x0004e90c       0x90 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(ClientNotifyMgr.o)
+                                 0x98 (size before relaxing)
+ .ARM.exidx     0x0004e99c       0x60 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(HeapMemMP.o)
+                                 0x90 (size before relaxing)
+ .ARM.exidx     0x0004e9fc       0x50 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(HeapBufMP.o)
+                                 0x88 (size before relaxing)
+ .ARM.exidx     0x0004ea4c       0x88 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(GateMP.o)
+                                 0xa8 (size before relaxing)
+ .ARM.exidx     0x0004ead4       0x10 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(SharedRegionDrv.o)
+                                 0x18 (size before relaxing)
+ .ARM.exidx     0x0004eae4       0x20 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(NotifyDrvUsr.o)
+ .ARM.exidx     0x0004eb04       0x10 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(HeapBufMPDrv.o)
+                                 0x18 (size before relaxing)
+ .ARM.exidx     0x0004eb14       0x10 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(MessageQDrv.o)
+                                 0x18 (size before relaxing)
+ .ARM.exidx     0x0004eb24       0x18 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(IpcDrv.o)
+ .ARM.exidx     0x0004eb3c        0x8 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(FrameQDrv.o)
+                                 0x18 (size before relaxing)
+ .ARM.exidx     0x0004eb44       0x10 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(FrameQBufMgrDrv.o)
+                                 0x18 (size before relaxing)
+ .ARM.exidx     0x0004eb54       0x10 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(ClientNotifyMgrDrv.o)
+                                 0x18 (size before relaxing)
+ .ARM.exidx     0x0004eb64       0x10 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(RingIODrv.o)
+                                 0x18 (size before relaxing)
+ .ARM.exidx     0x0004eb74       0x10 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(RingIOShmDrv.o)
+                                 0x18 (size before relaxing)
+ .ARM.exidx     0x0004eb84       0x10 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(HeapMemMPDrv.o)
+                                 0x18 (size before relaxing)
+ .ARM.exidx     0x0004eb94       0x10 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(GateMPDrv.o)
+                                 0x18 (size before relaxing)
+ .ARM.exidx     0x0004eba4        0x8 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(OsalProcess.o)
+                                 0x10 (size before relaxing)
+ .ARM.exidx     0x0004ebac       0x10 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(GateMutex.o)
+                                 0x30 (size before relaxing)
+ .ARM.exidx     0x0004ebbc       0x38 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(Memory.o)
+                                 0x40 (size before relaxing)
+ .ARM.exidx     0x0004ebf4       0x50 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(List.o)
+                                 0x88 (size before relaxing)
+ .ARM.exidx     0x0004ec44       0x38 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(String.o)
+                                 0x40 (size before relaxing)
+ .ARM.exidx     0x0004ec7c       0x40 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(Trace.o)
+                                 0x48 (size before relaxing)
+ .ARM.exidx     0x0004ecbc       0x60 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(NameServer.o)
+                                 0x98 (size before relaxing)
+ .ARM.exidx     0x0004ed1c       0x40 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(MultiProc.o)
+                                 0x48 (size before relaxing)
+ .ARM.exidx     0x0004ed5c        0x8 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(Gate.o)
+                                 0x20 (size before relaxing)
+ .ARM.exidx     0x0004ed64        0x8 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(SysLink.o)
+                                 0x10 (size before relaxing)
+ .ARM.exidx     0x0004ed6c       0x18 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(Cache.o)
+                                 0x28 (size before relaxing)
+ .ARM.exidx     0x0004ed84       0x10 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(NameServerDrv.o)
+                                 0x18 (size before relaxing)
+ .ARM.exidx     0x0004ed94        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(MultiProcDrv.o)
+                                 0x18 (size before relaxing)
+ .ARM.exidx     0x0004ed94        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(TraceDrv.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx     0x0004ed94        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(CacheDrv.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx     0x0004ed94        0x8 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(Dev.o)
+ .ARM.exidx     0x0004ed9c       0x38 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(MemoryOS.o)
+                                 0x50 (size before relaxing)
+ .ARM.exidx     0x0004edd4       0x20 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(OsalDrv.o)
+                                 0x28 (size before relaxing)
+ .ARM.exidx     0x0004edf4       0x10 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(OsalMutex.o)
+                                 0x20 (size before relaxing)
+ .ARM.exidx     0x0004ee04        0x8 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(OsalPrint.o)
+ .ARM.exidx     0x0004ee0c       0x98 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(ProcMgr.o)
+                                 0xe8 (size before relaxing)
+ .ARM.exidx     0x0004eea4       0x10 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(ProcMgrDrvUsr.o)
+                                 0x18 (size before relaxing)
+ .ARM.exidx     0x0004eeb4       0x20 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(FrameQ_common.o)
+                                 0x48 (size before relaxing)
+ .ARM.exidx     0x0004eed4       0x50 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(ListMP.o)
+                                 0xa8 (size before relaxing)
+ .ARM.exidx     0x0004ef24       0x10 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(ListMPDrv.o)
+                                 0x18 (size before relaxing)
+ .ARM.exidx     0x0004ef34       0x18 /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../arm-none-linux-gnueabi/libc/usr/lib/libc_nonshared.a(elf-init.oS)
+                                 0x10 (size before relaxing)
+ .ARM.exidx.init
+                0x0004e3d4       0x10 /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../arm-none-linux-gnueabi/libc/usr/lib/crtn.o
+                                  0x8 (size before relaxing)
+ .ARM.exidx.fini
+                0x0004ef4c       0x10 /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../arm-none-linux-gnueabi/libc/usr/lib/crtn.o
+                                  0x8 (size before relaxing)
+                0x0004ef5c                __exidx_end = .
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+
+.eh_frame       0x0004ef5c        0x4
+ *(.eh_frame)
+ .eh_frame      0x0004ef5c        0x4 /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-linux-gnueabi/4.3.3/crtend.o
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+                0x0004ef60                . = (ALIGN (0x8000) - ((0x8000 - .) & 0x7fff))
+                0x00057000                . = (0x8000 DATA_SEGMENT_ALIGN 0x1000)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.tdata
+ *(.tdata .tdata.* .gnu.linkonce.td.*)
+
+.tbss
+ *(.tbss .tbss.* .gnu.linkonce.tb.*)
+ *(.tcommon)
+
+.preinit_array  0x00057000        0x0
+                0x00057000                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array)
+                0x00057000                PROVIDE (__preinit_array_end, .)
+
+.init_array     0x00057000        0x4
+                0x00057000                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ *(.init_array)
+ .init_array    0x00057000        0x4 /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-linux-gnueabi/4.3.3/crtbegin.o
+                0x00057004                PROVIDE (__init_array_end, .)
+
+.fini_array     0x00057004        0x4
+                0x00057004                PROVIDE (__fini_array_start, .)
+ *(.fini_array)
+ .fini_array    0x00057004        0x4 /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-linux-gnueabi/4.3.3/crtbegin.o
+ *(SORT(.fini_array.*))
+                0x00057008                PROVIDE (__fini_array_end, .)
+
+.ctors
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+
+.dtors
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+
+.jcr            0x00057008        0x4
+ *(.jcr)
+ .jcr           0x00057008        0x0 /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-linux-gnueabi/4.3.3/crtbegin.o
+ .jcr           0x00057008        0x4 /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-linux-gnueabi/4.3.3/crtend.o
+
+.data.rel.ro    0x0005700c       0x38
+ *(.data.rel.ro.local* .gnu.linkonce.d.rel.ro.local.*)
+ .data.rel.ro.local
+                0x0005700c       0x38 bin/release/obj/common.ov5T
+ *(.data.rel.ro* .gnu.linkonce.d.rel.ro.*)
+
+.dynamic        0x00057044      0x128
+ *(.dynamic)
+ .dynamic       0x00057044      0x128 /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../arm-none-linux-gnueabi/libc/usr/lib/crti.o
+                0x00057044                _DYNAMIC
+                0x0005716c                . = (. DATA_SEGMENT_RELRO_END 0x0)
+
+.got            0x0005716c      0x220
+ *(.got.plt)
+ .got.plt       0x0005716c      0x1c0 /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../arm-none-linux-gnueabi/libc/usr/lib/crti.o
+                0x0005716c                _GLOBAL_OFFSET_TABLE_
+ *(.got)
+ .got           0x0005732c       0x60 /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../arm-none-linux-gnueabi/libc/usr/lib/crti.o
+
+.data           0x0005738c      0x2f0
+                0x0005738c                __data_start = .
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0x0005738c        0x4 /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../arm-none-linux-gnueabi/libc/usr/lib/crt1.o
+                0x0005738c                data_start
+ .data          0x00057390        0x0 /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../arm-none-linux-gnueabi/libc/usr/lib/crti.o
+ .data          0x00057390        0x4 /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-linux-gnueabi/4.3.3/crtbegin.o
+                0x00057390                __dso_handle
+ .data          0x00057394        0x0 bin/release/obj/main_host.ov5T
+ .data          0x00057394        0x0 bin/release/obj/App.ov5T
+ .data          0x00057394        0x0 bin/release/obj/ParaMP4Enc.ov5T
+ .data          0x00057394        0x0 bin/release/obj/ParaParser.ov5T
+ .data          0x00057394        0x0 bin/release/obj/CallBack.ov5T
+ .data          0x00057394      0x2a0 bin/release/obj/common.ov5T
+                0x00057594                cube_tex_coords
+                0x000573d4                modelview
+                0x00057614                colors
+                0x00057414                cube_vertices
+                0x000574d4                cube_normals
+                0x00057394                projection
+ .data.rel.local
+                0x00057634        0xc bin/release/obj/common.ov5T
+ .data          0x00057640        0x0 bin/release/obj/customer_folder/111.ov5T
+ .data          0x00057640        0x4 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(SharedRegion.o)
+                0x00057640                SharedRegion_module
+ .data          0x00057644        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(Notify.o)
+ .data          0x00057644        0x4 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(MessageQ.o)
+                0x00057644                MessageQ_module
+ .data          0x00057648        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(Ipc.o)
+ .data          0x00057648        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(RingIO.o)
+ .data          0x00057648        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(RingIOShm.o)
+ .data          0x00057648        0x4 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(FrameQ.o)
+                0x00057648                FrameQ_module
+ .data          0x0005764c        0x4 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(FrameQBufMgr.o)
+                0x0005764c                FrameQBufMgr_module
+ .data          0x00057650        0x4 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(ClientNotifyMgr.o)
+                0x00057650                ClientNotifyMgr_module
+ .data          0x00057654        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(HeapMemMP.o)
+ .data          0x00057654        0x4 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(HeapBufMP.o)
+                0x00057654                HeapBufMP_module
+ .data          0x00057658        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(GateMP.o)
+ .data          0x00057658        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(SharedRegionDrv.o)
+ .data          0x00057658        0x4 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(NotifyDrvUsr.o)
+ .data          0x0005765c        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(HeapBufMPDrv.o)
+ .data          0x0005765c        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(MessageQDrv.o)
+ .data          0x0005765c        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(IpcDrv.o)
+ .data          0x0005765c        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(FrameQDrv.o)
+ .data          0x0005765c        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(FrameQBufMgrDrv.o)
+ .data          0x0005765c        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(ClientNotifyMgrDrv.o)
+ .data          0x0005765c        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(RingIODrv.o)
+ .data          0x0005765c        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(RingIOShmDrv.o)
+ .data          0x0005765c        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(HeapMemMPDrv.o)
+ .data          0x0005765c        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(GateMPDrv.o)
+ .data          0x0005765c        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(OsalProcess.o)
+ .data          0x0005765c        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(GateMutex.o)
+ .data          0x0005765c        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(Memory.o)
+ .data          0x0005765c        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(List.o)
+ .data          0x0005765c        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(String.o)
+ .data          0x0005765c        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(Trace.o)
+ .data          0x0005765c        0x4 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(NameServer.o)
+                0x0005765c                NameServer_module
+ .data          0x00057660        0x4 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(MultiProc.o)
+                0x00057660                MultiProc_module
+ .data          0x00057664        0xc /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(Gate.o)
+                0x0005766c                Gate_systemHandle
+                0x00057664                Gate_systemObject
+ .data          0x00057670        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(SysLink.o)
+ .data          0x00057670        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(Cache.o)
+ .data          0x00057670        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(NameServerDrv.o)
+ .data          0x00057670        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(MultiProcDrv.o)
+ .data          0x00057670        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(TraceDrv.o)
+ .data          0x00057670        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(CacheDrv.o)
+ .data          0x00057670        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(Dev.o)
+ .data          0x00057670        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(MemoryOS.o)
+ .data          0x00057670        0x4 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(OsalDrv.o)
+ .data          0x00057674        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(OsalMutex.o)
+ .data          0x00057674        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(OsalPrint.o)
+ .data          0x00057674        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(ProcMgr.o)
+ .data          0x00057674        0x4 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(ProcMgrDrvUsr.o)
+ .data          0x00057678        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(FrameQ_common.o)
+ .data          0x00057678        0x4 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(ListMP.o)
+                0x00057678                ListMP_module
+ .data          0x0005767c        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(ListMPDrv.o)
+ .data          0x0005767c        0x0 /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../arm-none-linux-gnueabi/libc/usr/lib/libc_nonshared.a(elf-init.oS)
+ .data          0x0005767c        0x0 /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-linux-gnueabi/4.3.3/crtend.o
+ .data          0x0005767c        0x0 /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../arm-none-linux-gnueabi/libc/usr/lib/crtn.o
+
+.data1
+ *(.data1)
+                0x0005767c                _edata = .
+                0x0005767c                PROVIDE (edata, .)
+                0x0005767c                __bss_start = .
+                0x0005767c                __bss_start__ = .
+
+.bss            0x00057680    0x2e708
+ *(.dynbss)
+ *fill*         0x00057680        0x0 00
+ .dynbss        0x00057680        0x4 /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../arm-none-linux-gnueabi/libc/usr/lib/crti.o
+                0x00057680                stderr@@GLIBC_2.4
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x00057684        0x0 /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../arm-none-linux-gnueabi/libc/usr/lib/crt1.o
+ .bss           0x00057684        0x0 /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../arm-none-linux-gnueabi/libc/usr/lib/crti.o
+ .bss           0x00057684        0x1 /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-linux-gnueabi/4.3.3/crtbegin.o
+ *fill*         0x00057685        0x3 00
+ .bss           0x00057688       0x8c bin/release/obj/main_host.ov5T
+                0x00057710                cmdMsg
+                0x0005770c                hMessageQ
+                0x00057708                hHeap
+ .bss           0x00057714       0x58 bin/release/obj/App.ov5T
+ .bss           0x0005776c        0x0 bin/release/obj/ParaMP4Enc.ov5T
+ .bss           0x0005776c        0x0 bin/release/obj/ParaParser.ov5T
+ .bss           0x0005776c        0x0 bin/release/obj/CallBack.ov5T
+ .bss           0x0005776c       0x24 bin/release/obj/common.ov5T
+                0x0005778c                surface
+                0x00057784                profiling
+                0x00057780                gQuit
+                0x00057788                glTexBindStreamIMG
+ .bss           0x00057790        0x0 bin/release/obj/customer_folder/111.ov5T
+ .bss           0x00057790      0x120 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(SharedRegion.o)
+                0x00057790                SharedRegion_state
+ .bss           0x000578b0       0x14 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(Notify.o)
+                0x000578b0                Notify_state
+ .bss           0x000578c4        0x4 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(MessageQ.o)
+                0x000578c4                MessageQ_state
+ .bss           0x000578c8       0x5c /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(Ipc.o)
+                0x000578c8                SysLinkCfg_sysMemMap
+                0x000578d4                Ipc_state
+                0x000578d0                SysLink_params
+ .bss           0x00057924        0xc /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(RingIO.o)
+                0x00057924                RingIO_state
+ .bss           0x00057930        0x8 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(RingIOShm.o)
+                0x00057930                RingIOShm_state
+ .bss           0x00057938       0x20 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(FrameQ.o)
+                0x00057938                FrameQ_module_obj
+ .bss           0x00057958       0x20 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(FrameQBufMgr.o)
+                0x00057958                FrameQBufMgr_module_obj
+ .bss           0x00057978    0x2d024 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(ClientNotifyMgr.o)
+                0x00057978                ClientNotifyMgr_module_obj
+ .bss           0x0008499c        0x4 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(HeapMemMP.o)
+                0x0008499c                HeapMemMP_state
+ .bss           0x000849a0        0x4 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(HeapBufMP.o)
+                0x000849a0                HeapBufMP_state
+ .bss           0x000849a4       0x1c /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(GateMP.o)
+ .bss           0x000849c0        0x8 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(SharedRegionDrv.o)
+ .bss           0x000849c8        0xc /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(NotifyDrvUsr.o)
+ .bss           0x000849d4        0x8 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(HeapBufMPDrv.o)
+ .bss           0x000849dc        0x8 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(MessageQDrv.o)
+ .bss           0x000849e4        0x8 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(IpcDrv.o)
+ .bss           0x000849ec        0x8 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(FrameQDrv.o)
+ .bss           0x000849f4        0x8 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(FrameQBufMgrDrv.o)
+ .bss           0x000849fc        0x8 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(ClientNotifyMgrDrv.o)
+ .bss           0x00084a04        0x8 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(RingIODrv.o)
+ .bss           0x00084a0c        0x8 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(RingIOShmDrv.o)
+ .bss           0x00084a14        0x8 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(HeapMemMPDrv.o)
+ .bss           0x00084a1c        0x8 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(GateMPDrv.o)
+ .bss           0x00084a24        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(OsalProcess.o)
+ .bss           0x00084a24        0x4 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(GateMutex.o)
+ .bss           0x00084a28        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(Memory.o)
+ .bss           0x00084a28        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(List.o)
+ .bss           0x00084a28        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(String.o)
+ .bss           0x00084a28        0x4 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(Trace.o)
+                0x00084a28                curTrace
+ .bss           0x00084a2c        0xc /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(NameServer.o)
+                0x00084a2c                NameServer_state
+ .bss           0x00084a38      0x298 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(MultiProc.o)
+                0x00084a38                MultiProc_state
+ .bss           0x00084cd0       0x18 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(Gate.o)
+                0x00084cd0                staticMutex
+ .bss           0x00084ce8        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(SysLink.o)
+ .bss           0x00084ce8        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(Cache.o)
+ .bss           0x00084ce8        0x8 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(NameServerDrv.o)
+ .bss           0x00084cf0        0x8 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(MultiProcDrv.o)
+ .bss           0x00084cf8        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(TraceDrv.o)
+ .bss           0x00084cf8        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(CacheDrv.o)
+ .bss           0x00084cf8        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(Dev.o)
+ .bss           0x00084cf8       0x18 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(MemoryOS.o)
+ .bss           0x00084d10        0x4 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(OsalDrv.o)
+ .bss           0x00084d14        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(OsalMutex.o)
+ .bss           0x00084d14        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(OsalPrint.o)
+ .bss           0x00084d14       0x2c /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(ProcMgr.o)
+                0x00084d14                ProcMgr_state
+ .bss           0x00084d40        0x4 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(ProcMgrDrvUsr.o)
+ .bss           0x00084d44        0x0 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(FrameQ_common.o)
+ .bss           0x00084d44        0x4 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(ListMP.o)
+                0x00084d44                ListMP_state
+ .bss           0x00084d48        0x8 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(ListMPDrv.o)
+ .bss           0x00084d50        0x0 /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../arm-none-linux-gnueabi/libc/usr/lib/libc_nonshared.a(elf-init.oS)
+ .bss           0x00084d50        0x0 /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-linux-gnueabi/4.3.3/crtend.o
+ .bss           0x00084d50        0x0 /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../arm-none-linux-gnueabi/libc/usr/lib/crtn.o
+ *(COMMON)
+ COMMON         0x00084d50        0x4 bin/release/obj/main_host.ov5T
+                0x00084d50                RemoteDspQId
+ COMMON         0x00084d54     0x1000 bin/release/obj/CallBack.ov5T
+                0x00084d54                DATA_GET
+ COMMON         0x00085d54       0x20 bin/release/obj/common.ov5T
+                0x00085d54                program
+                0x00085d5c                dpy
+                0x00085d60                model_view_idx
+                0x00085d68                proj_idx
+                0x00085d70                ptex_objs
+ COMMON         0x00085d74        0x4 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(NameServer.o)
+                0x00085d74                NameServer_Object
+ COMMON         0x00085d78       0x10 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(MemoryOS.o)
+                0x00085d78                MemoryOS_state
+                0x00085d88                . = ALIGN ((. != 0x0)?0x4:0x1)
+                0x00085d88                _bss_end__ = .
+                0x00085d88                __bss_end__ = .
+                0x00085d88                . = ALIGN (0x4)
+                0x00085d88                . = ALIGN (0x4)
+                0x00085d88                __end__ = .
+                0x00085d88                _end = .
+                0x00085d88                PROVIDE (end, .)
+                0x00085d88                . = DATA_SEGMENT_END (.)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.ARM.attributes
+                0x00000000       0x2d
+ .ARM.attributes
+                0x00000000       0x2d /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../arm-none-linux-gnueabi/libc/usr/lib/crt1.o
+ .ARM.attributes
+                0x0000002d       0x31 /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../arm-none-linux-gnueabi/libc/usr/lib/crti.o
+ .ARM.attributes
+                0x0000005e       0x31 /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-linux-gnueabi/4.3.3/crtbegin.o
+ .ARM.attributes
+                0x0000008f       0x2a bin/release/obj/main_host.ov5T
+ .ARM.attributes
+                0x000000b9       0x2a bin/release/obj/App.ov5T
+ .ARM.attributes
+                0x000000e3       0x2a bin/release/obj/ParaMP4Enc.ov5T
+ .ARM.attributes
+                0x0000010d       0x2a bin/release/obj/ParaParser.ov5T
+ .ARM.attributes
+                0x00000137       0x2a bin/release/obj/CallBack.ov5T
+ .ARM.attributes
+                0x00000161       0x2a bin/release/obj/common.ov5T
+ .ARM.attributes
+                0x0000018b       0x31 bin/release/obj/customer_folder/111.ov5T
+ .ARM.attributes
+                0x000001bc       0x31 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(SharedRegion.o)
+ .ARM.attributes
+                0x000001ed       0x31 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(Notify.o)
+ .ARM.attributes
+                0x0000021e       0x31 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(MessageQ.o)
+ .ARM.attributes
+                0x0000024f       0x31 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(Ipc.o)
+ .ARM.attributes
+                0x00000280       0x31 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(RingIO.o)
+ .ARM.attributes
+                0x000002b1       0x31 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(RingIOShm.o)
+ .ARM.attributes
+                0x000002e2       0x31 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(FrameQ.o)
+ .ARM.attributes
+                0x00000313       0x31 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(FrameQBufMgr.o)
+ .ARM.attributes
+                0x00000344       0x31 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(ClientNotifyMgr.o)
+ .ARM.attributes
+                0x00000375       0x31 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(HeapMemMP.o)
+ .ARM.attributes
+                0x000003a6       0x31 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(HeapBufMP.o)
+ .ARM.attributes
+                0x000003d7       0x31 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(GateMP.o)
+ .ARM.attributes
+                0x00000408       0x31 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(SharedRegionDrv.o)
+ .ARM.attributes
+                0x00000439       0x31 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(NotifyDrvUsr.o)
+ .ARM.attributes
+                0x0000046a       0x31 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(HeapBufMPDrv.o)
+ .ARM.attributes
+                0x0000049b       0x31 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(MessageQDrv.o)
+ .ARM.attributes
+                0x000004cc       0x31 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(IpcDrv.o)
+ .ARM.attributes
+                0x000004fd       0x31 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(FrameQDrv.o)
+ .ARM.attributes
+                0x0000052e       0x31 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(FrameQBufMgrDrv.o)
+ .ARM.attributes
+                0x0000055f       0x31 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(ClientNotifyMgrDrv.o)
+ .ARM.attributes
+                0x00000590       0x31 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(RingIODrv.o)
+ .ARM.attributes
+                0x000005c1       0x31 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(RingIOShmDrv.o)
+ .ARM.attributes
+                0x000005f2       0x31 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(HeapMemMPDrv.o)
+ .ARM.attributes
+                0x00000623       0x31 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(GateMPDrv.o)
+ .ARM.attributes
+                0x00000654       0x31 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(OsalProcess.o)
+ .ARM.attributes
+                0x00000685       0x31 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(GateMutex.o)
+ .ARM.attributes
+                0x000006b6       0x31 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(Memory.o)
+ .ARM.attributes
+                0x000006e7       0x31 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(List.o)
+ .ARM.attributes
+                0x00000718       0x31 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(String.o)
+ .ARM.attributes
+                0x00000749       0x31 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(Trace.o)
+ .ARM.attributes
+                0x0000077a       0x31 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(NameServer.o)
+ .ARM.attributes
+                0x000007ab       0x31 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(MultiProc.o)
+ .ARM.attributes
+                0x000007dc       0x31 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(Gate.o)
+ .ARM.attributes
+                0x0000080d       0x31 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(SysLink.o)
+ .ARM.attributes
+                0x0000083e       0x31 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(Cache.o)
+ .ARM.attributes
+                0x0000086f       0x31 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(NameServerDrv.o)
+ .ARM.attributes
+                0x000008a0       0x31 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(MultiProcDrv.o)
+ .ARM.attributes
+                0x000008d1       0x31 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(TraceDrv.o)
+ .ARM.attributes
+                0x00000902       0x31 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(CacheDrv.o)
+ .ARM.attributes
+                0x00000933       0x31 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(Dev.o)
+ .ARM.attributes
+                0x00000964       0x31 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(MemoryOS.o)
+ .ARM.attributes
+                0x00000995       0x31 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(OsalDrv.o)
+ .ARM.attributes
+                0x000009c6       0x31 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(OsalMutex.o)
+ .ARM.attributes
+                0x000009f7       0x31 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(OsalPrint.o)
+ .ARM.attributes
+                0x00000a28       0x31 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(ProcMgr.o)
+ .ARM.attributes
+                0x00000a59       0x31 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(ProcMgrDrvUsr.o)
+ .ARM.attributes
+                0x00000a8a       0x31 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(FrameQ_common.o)
+ .ARM.attributes
+                0x00000abb       0x31 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(ListMP.o)
+ .ARM.attributes
+                0x00000aec       0x31 /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(ListMPDrv.o)
+ .ARM.attributes
+                0x00000b1d       0x31 /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../arm-none-linux-gnueabi/libc/usr/lib/libc_nonshared.a(elf-init.oS)
+ .ARM.attributes
+                0x00000b4e       0x31 /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-linux-gnueabi/4.3.3/crtend.o
+ .ARM.attributes
+                0x00000b7f       0x31 /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../arm-none-linux-gnueabi/libc/usr/lib/crtn.o
+
+.comment        0x00000000      0x968
+ *(.comment)
+ .comment       0x00000000       0x2b bin/release/obj/main_host.ov5T
+ .comment       0x0000002b       0x2b bin/release/obj/App.ov5T
+ .comment       0x00000056       0x2b bin/release/obj/ParaMP4Enc.ov5T
+ .comment       0x00000081       0x2b bin/release/obj/ParaParser.ov5T
+ .comment       0x000000ac       0x2b bin/release/obj/CallBack.ov5T
+ .comment       0x000000d7       0x2b bin/release/obj/common.ov5T
+ .comment       0x00000102       0x2b bin/release/obj/customer_folder/111.ov5T
+ .comment       0x0000012d       0x2b /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(SharedRegion.o)
+ .comment       0x00000158       0x2b /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(Notify.o)
+ .comment       0x00000183       0x2b /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(MessageQ.o)
+ .comment       0x000001ae       0x2b /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(Ipc.o)
+ .comment       0x000001d9       0x2b /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(RingIO.o)
+ .comment       0x00000204       0x2b /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(RingIOShm.o)
+ .comment       0x0000022f       0x2b /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(FrameQ.o)
+ .comment       0x0000025a       0x2b /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(FrameQBufMgr.o)
+ .comment       0x00000285       0x2b /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(ClientNotifyMgr.o)
+ .comment       0x000002b0       0x2b /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(HeapMemMP.o)
+ .comment       0x000002db       0x2b /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(HeapBufMP.o)
+ .comment       0x00000306       0x2b /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(GateMP.o)
+ .comment       0x00000331       0x2b /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(SharedRegionDrv.o)
+ .comment       0x0000035c       0x2b /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(NotifyDrvUsr.o)
+ .comment       0x00000387       0x2b /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(HeapBufMPDrv.o)
+ .comment       0x000003b2       0x2b /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(MessageQDrv.o)
+ .comment       0x000003dd       0x2b /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(IpcDrv.o)
+ .comment       0x00000408       0x2b /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(FrameQDrv.o)
+ .comment       0x00000433       0x2b /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(FrameQBufMgrDrv.o)
+ .comment       0x0000045e       0x2b /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(ClientNotifyMgrDrv.o)
+ .comment       0x00000489       0x2b /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(RingIODrv.o)
+ .comment       0x000004b4       0x2b /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(RingIOShmDrv.o)
+ .comment       0x000004df       0x2b /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(HeapMemMPDrv.o)
+ .comment       0x0000050a       0x2b /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(GateMPDrv.o)
+ .comment       0x00000535       0x2b /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(OsalProcess.o)
+ .comment       0x00000560       0x2b /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(GateMutex.o)
+ .comment       0x0000058b       0x2b /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(Memory.o)
+ .comment       0x000005b6       0x2b /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(List.o)
+ .comment       0x000005e1       0x2b /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(String.o)
+ .comment       0x0000060c       0x2b /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(Trace.o)
+ .comment       0x00000637       0x2b /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(NameServer.o)
+ .comment       0x00000662       0x2b /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(MultiProc.o)
+ .comment       0x0000068d       0x2b /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(Gate.o)
+ .comment       0x000006b8       0x2b /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(SysLink.o)
+ .comment       0x000006e3       0x2b /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(Cache.o)
+ .comment       0x0000070e       0x2b /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(NameServerDrv.o)
+ .comment       0x00000739       0x2b /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(MultiProcDrv.o)
+ .comment       0x00000764       0x2b /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(TraceDrv.o)
+ .comment       0x0000078f       0x2b /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(CacheDrv.o)
+ .comment       0x000007ba       0x2b /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(Dev.o)
+ .comment       0x000007e5       0x2b /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(MemoryOS.o)
+ .comment       0x00000810       0x2b /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(OsalDrv.o)
+ .comment       0x0000083b       0x2b /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(OsalMutex.o)
+ .comment       0x00000866       0x2b /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(OsalPrint.o)
+ .comment       0x00000891       0x2b /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(ProcMgr.o)
+ .comment       0x000008bc       0x2b /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(ProcMgrDrvUsr.o)
+ .comment       0x000008e7       0x2b /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(FrameQ_common.o)
+ .comment       0x00000912       0x2b /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(ListMP.o)
+ .comment       0x0000093d       0x2b /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/lib/syslink.a_release(ListMPDrv.o)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges
+ *(.debug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info
+ *(.debug_info .gnu.linkonce.wi.*)
+
+.debug_abbrev
+ *(.debug_abbrev)
+
+.debug_line
+ *(.debug_line)
+
+.debug_frame    0x00000000       0x44
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x44 /home/chandler/CodeSourcery/Sourcery_G++_Lite/bin/../arm-none-linux-gnueabi/libc/usr/lib/libc_nonshared.a(elf-init.oS)
+
+.debug_str
+ *(.debug_str)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.gnu.attributes
+ *(.gnu.attributes)
+
+.note.gnu.arm.ident
+ *(.note.gnu.arm.ident)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+OUTPUT(bin/release/app_host elf32-littlearm)

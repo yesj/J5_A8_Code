@@ -1,0 +1,14 @@
+package/lib/lib/release/ti.syslink.utils.rtos.bios6/../osal/bios6/MemoryOS.oe674: ../osal/bios6/MemoryOS.c /home/chandler/Dev_J5ECO/component-sources/xdctools_3_23_03_53/packages/xdc/std.h /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/utils/Trace.h /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/utils/_Memory.h /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/utils/_MemoryOS.h /home/chandler/Dev_J5ECO/dsp-devkit/cgt6x_7_3_4/include/stdarg.h /home/chandler/Dev_J5ECO/dsp-devkit/cgt6x_7_3_4/include/stddef.h /home/chandler/Dev_J5ECO/component-sources/xdctools_3_23_03_53/packages/ti/targets/elf/std.h /home/chandler/Dev_J5ECO/component-sources/xdctools_3_23_03_53/packages/ti/targets/select.h /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/utils/OsalPrint.h /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/utils/_MemoryDefs.h /home/chandler/Dev_J5ECO/component-sources/xdctools_3_23_03_53/packages/ti/targets/std.h /home/chandler/Dev_J5ECO/dsp-devkit/cgt6x_7_3_4/include/stdint.h 
+../osal/bios6/MemoryOS.c:
+/home/chandler/Dev_J5ECO/component-sources/xdctools_3_23_03_53/packages/xdc/std.h:
+/home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/utils/Trace.h:
+/home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/utils/_Memory.h:
+/home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/utils/_MemoryOS.h:
+/home/chandler/Dev_J5ECO/dsp-devkit/cgt6x_7_3_4/include/stdarg.h:
+/home/chandler/Dev_J5ECO/dsp-devkit/cgt6x_7_3_4/include/stddef.h:
+/home/chandler/Dev_J5ECO/component-sources/xdctools_3_23_03_53/packages/ti/targets/elf/std.h:
+/home/chandler/Dev_J5ECO/component-sources/xdctools_3_23_03_53/packages/ti/targets/select.h:
+/home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/utils/OsalPrint.h:
+/home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/utils/_MemoryDefs.h:
+/home/chandler/Dev_J5ECO/component-sources/xdctools_3_23_03_53/packages/ti/targets/std.h:
+/home/chandler/Dev_J5ECO/dsp-devkit/cgt6x_7_3_4/include/stdint.h:

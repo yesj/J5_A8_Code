@@ -1,0 +1,111 @@
+/*
+ *  @file   package.bld
+ *
+ *  @brief      XDC file
+ *
+ *
+ *  ============================================================================
+ *
+ *  Copyright (c) 2008-2012, Texas Instruments Incorporated
+ *
+ *  Redistribution and use in source and binary forms, with or without
+ *  modification, are permitted provided that the following conditions
+ *  are met:
+ *  
+ *  *  Redistributions of source code must retain the above copyright
+ *     notice, this list of conditions and the following disclaimer.
+ *  
+ *  *  Redistributions in binary form must reproduce the above copyright
+ *     notice, this list of conditions and the following disclaimer in the
+ *     documentation and/or other materials provided with the distribution.
+ *  
+ *  *  Neither the name of Texas Instruments Incorporated nor the names of
+ *     its contributors may be used to endorse or promote products derived
+ *     from this software without specific prior written permission.
+ *  
+ *  THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+ *  AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO,
+ *  THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
+ *  PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR
+ *  CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
+ *  EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO,
+ *  PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS;
+ *  OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,
+ *  WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR
+ *  OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE,
+ *  EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+ *  Contact information for paper mail:
+ *  Texas Instruments
+ *  Post Office Box 655303
+ *  Dallas, Texas 75265
+ *  Contact information: 
+ *  http://www-k.ext.ti.com/sc/technical-support/product-information-centers.htm?
+ *  DCMP=TIHomeTracking&HQS=Other+OT+home_d_contact
+ *  ============================================================================
+ *  
+ */
+
+
+
+var name = Pkg.name;
+
+/* clean generated files and folders */
+Pkg.generatedFiles.$add("lib/");
+
+var SysLinkRepo = xdc.getPackageRepository('ti.syslink');
+
+var pCopts = "";
+pCopts     += " -I" + SysLinkRepo + "/ti/syslink/procMgr/common/loaders/Elf/DLOAD/C60_DLOAD_DYN/";
+pCopts     += " -I" + SysLinkRepo + "/ti/syslink/procMgr/common/loaders/Elf/DLOAD/C60_DLOAD_REL/";
+pCopts     += " -I" + SysLinkRepo + "/ti/syslink/procMgr/common/loaders/Elf/DLOAD/TMS470_DLOAD_DYN/";
+pCopts     += " -I" + SysLinkRepo + "/ti/syslink/procMgr/common/loaders/Elf/DLOAD/TMS470_DLOAD_REL/";
+pCopts     += " -I" + SysLinkRepo + "/ti/syslink/procMgr/common/loaders/Elf/DLOAD/DLOAD/";
+pCopts     += " -I" + SysLinkRepo + "/ti/syslink/procMgr/common/loaders/Elf/DLOAD/DLOAD_API/";
+pCopts     += " -I" + SysLinkRepo + "/ti/syslink/procMgr/common/loaders/Elf/DLOAD/DLOAD_SYM/";
+pCopts     += " -I" + SysLinkRepo + "/ti/syslink/procMgr/common/loaders/Elf/dlw_client/";
+
+var objList = [
+      "../../common/ProcMgr",
+      "../../common/PwrMgr",
+      "../../common/Loader",
+      "../../common/Processor",
+      "../../common/loaders/Coff/Coff55x.c",
+      "../../common/loaders/Coff/CoffLoader",
+      "../../common/loaders/Coff/CoffM3",
+      "../../common/loaders/Coff/Coff64x",
+      "../../common/loaders/Coff/Coff",
+      "../../common/loaders/Coff/CoffInt",
+      "../../common/loaders/Elf/DLOAD/C60_DLOAD_REL/c60_reloc",
+      "../../common/loaders/Elf/DLOAD/TMS470_DLOAD_DYN/arm_dynamic",
+      "../../common/loaders/Elf/DLOAD/TMS470_DLOAD_REL/arm_reloc",
+      "../../common/loaders/Elf/DLOAD/DLOAD_SYM/symtab",
+      "../../common/loaders/Elf/DLOAD/C60_DLOAD_DYN/c60_dynamic",
+      "../../common/loaders/Elf/DLOAD/DLOAD/ArrayList",
+      "../../common/loaders/Elf/DLOAD/DLOAD/elf32",
+      "../../common/loaders/Elf/DLOAD/DLOAD/dload_endian",
+      "../../common/loaders/Elf/dlw_client/dlw_client",
+      "../../common/loaders/Elf/DLOAD/DLOAD/dload",
+      "../../common/loaders/Elf/dlw_client/dlw_dsbt",
+      "../../common/loaders/Elf/ElfLoader",
+      ];
+
+/* Build only for ti814x */
+for (var i = 0; i < Build.targets.length; i++) {
+    var targ = Build.targets[i];
+    if (targ.name == "A8F") {
+
+        for (var j = 0; j < targ.platforms.length; j++) {
+            var platform = targ.platforms[j];
+
+            if (platform.match(/ti814x/)){
+
+                /* Build for all profiles */
+                for (var profile in targ.profiles) {
+                    Pkg.addLibrary("lib/" + profile + "/" + Pkg.name, targ, {
+                       profile: profile
+                    }).addObjects(objList, {copts: pCopts});
+                }
+            }
+        }
+    }
+}

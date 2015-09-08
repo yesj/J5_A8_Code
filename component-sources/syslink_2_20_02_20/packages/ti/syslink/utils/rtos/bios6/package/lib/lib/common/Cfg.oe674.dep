@@ -1,0 +1,13 @@
+package/lib/lib/debug/ti.syslink.utils.rtos.bios6/../../common/Cfg.oe674: ../../common/Cfg.c /home/chandler/Dev_J5ECO/component-sources/xdctools_3_23_03_53/packages/xdc/std.h /home/chandler/Dev_J5ECO/dsp-devkit/cgt6x_7_3_4/include/string.h ../../common/../Cfg.h /home/chandler/Dev_J5ECO/dsp-devkit/cgt6x_7_3_4/include/stdarg.h /home/chandler/Dev_J5ECO/dsp-devkit/cgt6x_7_3_4/include/stddef.h /home/chandler/Dev_J5ECO/component-sources/xdctools_3_23_03_53/packages/ti/targets/elf/std.h /home/chandler/Dev_J5ECO/component-sources/xdctools_3_23_03_53/packages/ti/targets/select.h /home/chandler/Dev_J5ECO/dsp-devkit/cgt6x_7_3_4/include/linkage.h /home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/utils/String.h /home/chandler/Dev_J5ECO/component-sources/xdctools_3_23_03_53/packages/ti/targets/std.h /home/chandler/Dev_J5ECO/dsp-devkit/cgt6x_7_3_4/include/stdint.h 
+../../common/Cfg.c:
+/home/chandler/Dev_J5ECO/component-sources/xdctools_3_23_03_53/packages/xdc/std.h:
+/home/chandler/Dev_J5ECO/dsp-devkit/cgt6x_7_3_4/include/string.h:
+../../common/../Cfg.h:
+/home/chandler/Dev_J5ECO/dsp-devkit/cgt6x_7_3_4/include/stdarg.h:
+/home/chandler/Dev_J5ECO/dsp-devkit/cgt6x_7_3_4/include/stddef.h:
+/home/chandler/Dev_J5ECO/component-sources/xdctools_3_23_03_53/packages/ti/targets/elf/std.h:
+/home/chandler/Dev_J5ECO/component-sources/xdctools_3_23_03_53/packages/ti/targets/select.h:
+/home/chandler/Dev_J5ECO/dsp-devkit/cgt6x_7_3_4/include/linkage.h:
+/home/chandler/Dev_J5ECO/component-sources/syslink_2_20_02_20/packages/ti/syslink/utils/String.h:
+/home/chandler/Dev_J5ECO/component-sources/xdctools_3_23_03_53/packages/ti/targets/std.h:
+/home/chandler/Dev_J5ECO/dsp-devkit/cgt6x_7_3_4/include/stdint.h:
